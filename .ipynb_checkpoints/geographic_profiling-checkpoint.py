@@ -3,7 +3,6 @@ import geopandas
 import osmnx as ox
 import networkx as nx
 import matplotlib.pyplot as plt
-import pdb
 
 
 transport_mode = 'walk'
@@ -12,12 +11,9 @@ vics = pandas.read_csv('victims.csv')
 
 selection = (vics['Confirmed Axeman'] == 'Yes') | (vics['Confirmed Axeman'] == 'Maybe')
 
-pdb.set_trace()
-
 vicselect = vics.loc[selection,['Latitude','Longitude']]
 vicselect.head()
 #vicselect.iloc[2,1] # third element, first second column
-
 lat = vicselect['Latitude']
 lon = vicselect['Longitude']
 
@@ -27,7 +23,6 @@ nodes, edges = ox.graph_to_gdfs(graph, nodes=True, edges=True)
 
 vorig = 0 
 vtarget = 6 
-
 orig_node = ox.get_nearest_node(graph, (lat[vorig], lon[vorig]))
 target_node = ox.get_nearest_node(graph, (lat[vtarget], lon[vtarget]))
 
