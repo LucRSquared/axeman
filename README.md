@@ -1,4 +1,4 @@
-# Geographic Profiling using Rossmo's Formula: Application of Rossmo's Formula
+# Geographic Profiling: Application of Rossmo's Formula
 
 In the main notebook `geoprofiling.ipynb`, the network of the streets of the city of New-Orleans, LA is pulled using data from OpenStreetMap. Data from the serial murders by the so-called "Axeman of New Orleans" is loaded and plotted on the network.
 
