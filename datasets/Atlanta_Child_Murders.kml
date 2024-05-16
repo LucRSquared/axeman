@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Atlanta Child Murders</name>
+    <description>Map pins indicate where victims were found, last seen and lived, among other information. </description>
+    <Style id="icon-1499-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1608-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1608-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1608-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1608-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1608-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1682-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1682-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1682-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1682-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1682-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name><![CDATA[Victims' home addresses]]></name>
+      <Placemark>
+        <name>Edward Smith</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFXzpyPtKYyFvMFB0YLzlSc9gyZEuSlRRsJxypiv5CUHt-Cbv8uJtZgJ5Or1Y-JzI1vkwfz-oZQ6ezFpyE0ofMIejlwiqL6_vOaKAZrvFmBKtCOJg-rsAbjZ6D5bAT0rmAIPPQi_2n9E0kIXtsXdcI7VPhORIXyEnTvK42Njv-kfnLqLNA4xf58ds7Ltavm5TH_dZq46Pbw0Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Smith's address was listed as 4205 Cape Street SW in a Sept. 1980 AJC article. It's now Kimberly Way.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFXzpyPtKYyFvMFB0YLzlSc9gyZEuSlRRsJxypiv5CUHt-Cbv8uJtZgJ5Or1Y-JzI1vkwfz-oZQ6ezFpyE0ofMIejlwiqL6_vOaKAZrvFmBKtCOJg-rsAbjZ6D5bAT0rmAIPPQi_2n9E0kIXtsXdcI7VPhORIXyEnTvK42Njv-kfnLqLNA4xf58ds7Ltavm5TH_dZq46Pbw0Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5251572,33.7197275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alfred Evans</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFW4RWVdH8kYnU4sC42S-quWRa8p9yFv7v01oGwpxvp_JNWQ6lHlv893KKnXGsq81h5OG3ebCToUFkQs7WypyUdzQOo6zV12VkiTJhsggqGPa3-PiD8sKg-sDDd9VgnHIibdBxZLsbRpi2MPNsKAfpRN4FJNvuZQlteHYM4xhPyReLA4TOi_R7GefNJpeUKLqTSjCYIur2O9w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Evans' address was listed as 255 Meadowlake Dr. SW in a Sept. 1980 AJC article. ]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFW4RWVdH8kYnU4sC42S-quWRa8p9yFv7v01oGwpxvp_JNWQ6lHlv893KKnXGsq81h5OG3ebCToUFkQs7WypyUdzQOo6zV12VkiTJhsggqGPa3-PiD8sKg-sDDd9VgnHIibdBxZLsbRpi2MPNsKAfpRN4FJNvuZQlteHYM4xhPyReLA4TOi_R7GefNJpeUKLqTSjCYIur2O9w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3110285,33.7442228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Harvey</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF-ejAl_d02rYOu75iNpkdtV-FZw-DHMrsPqN_ESyhl99eJcRitOBF_XF-w7H963E94-vBQ4vgul---NkoFc1_q_xLS9-EWtTVtgvjUHqNVixehhhJ9spzU67Bos8gYYwtH0yHtZ_fUP0RxC7FuXKWqpGcZQHZDQRwQ_0VnQ5nTVnE-qtgBzMdTa_-00m43t8BTrunbs4H6mw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Harvey's address was listed as 1396 Nash Rd. NW in a Sept. 1980 AJC article. ]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF-ejAl_d02rYOu75iNpkdtV-FZw-DHMrsPqN_ESyhl99eJcRitOBF_XF-w7H963E94-vBQ4vgul---NkoFc1_q_xLS9-EWtTVtgvjUHqNVixehhhJ9spzU67Bos8gYYwtH0yHtZ_fUP0RxC7FuXKWqpGcZQHZDQRwQ_0VnQ5nTVnE-qtgBzMdTa_-00m43t8BTrunbs4H6mw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4903587,33.7933175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yusuf Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFTL4mn1N5HJAt_I1l_aqDt2wvODefxhkDJ6DpWtCB22_5MFq1XmCAex7ChOZLgKY4Af5UuOfcBEclqgBTeHsGWYhJpyEIxcAwNpkmSh9lhyLMnfyNJfGzD3Jbws8_xtmnMpMVAG3bXLXKffR73cacqM1krQBXK2JV1inuMBE6Z3vvddQ-3HdruDy6r0tLTLBNdPamJljoMtg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bell's address was listed as 396 Rawson St. SW in a Sept. 1980 AJC article. ]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFTL4mn1N5HJAt_I1l_aqDt2wvODefxhkDJ6DpWtCB22_5MFq1XmCAex7ChOZLgKY4Af5UuOfcBEclqgBTeHsGWYhJpyEIxcAwNpkmSh9lhyLMnfyNJfGzD3Jbws8_xtmnMpMVAG3bXLXKffR73cacqM1krQBXK2JV1inuMBE6Z3vvddQ-3HdruDy6r0tLTLBNdPamJljoMtg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4006686,33.7428425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Lenair</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGKKQVqxb5xzt00Bb4Dy7YbSQSDz0HO1sZzzERHSH7vYv16BuZa1PT6uO3r-dQxq20YTvIcLlNlQrK9OVQSxlSLWKdjwYLJRxya9q3KXr-dfevKIBGa-URhnm-GV9PMwKNDVrUoX34EXz52dj8SQ-1gCGZMVHFf2QzYXdGjU-KpTlC8YA6v3cF70CiSV24_x_PCaJgPoizsrw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Lenair's address was listed as 1660 Stanton Rd. SW in a Sept. 1980 AJC article. ]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGKKQVqxb5xzt00Bb4Dy7YbSQSDz0HO1sZzzERHSH7vYv16BuZa1PT6uO3r-dQxq20YTvIcLlNlQrK9OVQSxlSLWKdjwYLJRxya9q3KXr-dfevKIBGa-URhnm-GV9PMwKNDVrUoX34EXz52dj8SQ-1gCGZMVHFf2QzYXdGjU-KpTlC8YA6v3cF70CiSV24_x_PCaJgPoizsrw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4427879,33.709843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jefferey Mathis</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFueLMrQzKUrNlnaFZugs4lKfzhVNc-z-XcMwsV0PMZ0NEmVFmqux_KsLn5mA2mvLhxRMNbBsx0ibszcXTrZ9kQwJqeouuNHwIYNCj7rCA_xF8gnFOGxCHjmhvugSDc6m7FCOtqk6il_wNeAZXkm2DCL-jQFmAxHdXaJjiBADjfe0PzvjbAPRvAbo2gXxZ6JqDSJqaoeF4viw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Mathis' address was listed as 471 E. Ontario Ave. SW in a Sept. 1980 AJC article. ]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFueLMrQzKUrNlnaFZugs4lKfzhVNc-z-XcMwsV0PMZ0NEmVFmqux_KsLn5mA2mvLhxRMNbBsx0ibszcXTrZ9kQwJqeouuNHwIYNCj7rCA_xF8gnFOGxCHjmhvugSDc6m7FCOtqk6il_wNeAZXkm2DCL-jQFmAxHdXaJjiBADjfe0PzvjbAPRvAbo2gXxZ6JqDSJqaoeF4viw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4384772,33.742353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eric Middlebrooks</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF3wZeQiEezQnIUqVF7XP1q207s07jH1GvmlAQTYG95_FaJkS3kjuGHq56_M-C62_l_tC0WA1z_f2Gn5EK-WrC5JgNTwYaosEL3x8_wXtYcAFb64nnwoHsGrbmEOG1f2Y3vt-kIBuvzb-cddn-FZj-ON0DtTOWJ67korLG_5HiGHWh8keNRHjQ05QrydBRKuKhKqZpx807S6g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Middlebrooks lived in the Battlecourt Apartments at 345 Howell Dr SE.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF3wZeQiEezQnIUqVF7XP1q207s07jH1GvmlAQTYG95_FaJkS3kjuGHq56_M-C62_l_tC0WA1z_f2Gn5EK-WrC5JgNTwYaosEL3x8_wXtYcAFb64nnwoHsGrbmEOG1f2Y3vt-kIBuvzb-cddn-FZj-ON0DtTOWJ67korLG_5HiGHWh8keNRHjQ05QrydBRKuKhKqZpx807S6g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3498819,33.744089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christopher Richardson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGizDhZN0jgVzGxT8vQEb-lEDqbNc7J_qw2vBZjteIyO1X2b9faVKqyEm9xq1dKIcrtCIq63vSzArb6beKNhg_R2KR9S85n02IwVIf5ltQm0KRiI6TK2nJivwEUhHrXSe5c5DnABWtf5MGRQXJO9xX0AU3qyMwNRLWeMtmSVqHWs-kc3SWrm1gI7gd5XdLqSNwbXwWtwwJu-g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Richardson's address was listed as 1495 Conway Rd. in a Sept. 1980 AJC article.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGizDhZN0jgVzGxT8vQEb-lEDqbNc7J_qw2vBZjteIyO1X2b9faVKqyEm9xq1dKIcrtCIq63vSzArb6beKNhg_R2KR9S85n02IwVIf5ltQm0KRiI6TK2nJivwEUhHrXSe5c5DnABWtf5MGRQXJO9xX0AU3qyMwNRLWeMtmSVqHWs-kc3SWrm1gI7gd5XdLqSNwbXwWtwwJu-g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.2793345,33.7496039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latonya Wilson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGKKLokoTCfnHQHELz_3MBRfDJg3O9M7JY5PTndq6I4kQfjJfsy49J94zJE09degfUuQfJWh-kQKHEbUVaYwfpx_24_vFdd_glVGL-QGyaxXwirctmqthDiIsRl9RIvosq2_UqskoUZB8BKxEo7JI82-eQTbaWSDuhhP6coyZbImhWl-m_46SUs716-VCtcipIOoBQn0yL5Dw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wilson's address was listed as 2261 Verbena St. NW in a Sept. 1980 AJC article.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGKKLokoTCfnHQHELz_3MBRfDJg3O9M7JY5PTndq6I4kQfjJfsy49J94zJE09degfUuQfJWh-kQKHEbUVaYwfpx_24_vFdd_glVGL-QGyaxXwirctmqthDiIsRl9RIvosq2_UqskoUZB8BKxEo7JI82-eQTbaWSDuhhP6coyZbImhWl-m_46SUs716-VCtcipIOoBQn0yL5Dw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4607052,33.7571021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Wyche</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHLBgOjhWuPLP22HW8M6MsGTsSIOYeowmI8Rnkho92wo__7IWgJeMYpnqG4ZH1EqoFkSG4jpzpur0CTUypc_xth2UxyatunjW_1Yn5GCnrl170qW4LNwzg973wZeS6mOzFMdNpsRI_JPu0dnEeHjQo3VRTgDQL_wfuq0STIA_xkJrZNYq2NAcpRFzEeQdAqf6eO5pGCWLtQww?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wyche lived at 1065 Henry Thomas Dr. SE.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHLBgOjhWuPLP22HW8M6MsGTsSIOYeowmI8Rnkho92wo__7IWgJeMYpnqG4ZH1EqoFkSG4jpzpur0CTUypc_xth2UxyatunjW_1Yn5GCnrl170qW4LNwzg973wZeS6mOzFMdNpsRI_JPu0dnEeHjQo3VRTgDQL_wfuq0STIA_xkJrZNYq2NAcpRFzEeQdAqf6eO5pGCWLtQww?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.351106,33.7048644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony Carter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGFIWjItqnn7Ms-EiqDSDJH_2u8ahYPANAb-eKk5OH3gBLD69rY0tEOQCjaIeSFE646zrSFJKWKh5ssWsRcwLVYpMqW8CZNTZYVZkgTjTWgDDD-2XzCwLoLWCbtH5hvQdb1rdYvsIMMjajgQlNH4duPKUHN9hnvwrOfQDAN7ROal6p3OUyjkmcUnCnC7MraM505xBADoIREHA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Carter's address was listed as 898 West End Ave. SW in a Sept. 1980 AJC article.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGFIWjItqnn7Ms-EiqDSDJH_2u8ahYPANAb-eKk5OH3gBLD69rY0tEOQCjaIeSFE646zrSFJKWKh5ssWsRcwLVYpMqW8CZNTZYVZkgTjTWgDDD-2XzCwLoLWCbtH5hvQdb1rdYvsIMMjajgQlNH4duPKUHN9hnvwrOfQDAN7ROal6p3OUyjkmcUnCnC7MraM505xBADoIREHA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4170378,33.7440846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl Terrell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFxfLo0iV6fJFs7ljCgafdTszmKFnoKoOypIOgrWNpgruJhicCpyIDzIEfZlx4yA2eCs9By5LThYYMDXpi_A7qm6Ip0WAp9Of_SiqRya_X7NP1cNNHLZ6-ul0U0BQCi6UmcIqwGJVMxyIjBt8Z-R1IveMW-WrzDjgWaJa0PeUcnwhWgMYE2MbzHnRJl-7GOq2-lCsJBLJApJQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Terrell's address was listed as 1930 Browns Mill Rd. SE in a Sept. 1980 AJC article.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFxfLo0iV6fJFs7ljCgafdTszmKFnoKoOypIOgrWNpgruJhicCpyIDzIEfZlx4yA2eCs9By5LThYYMDXpi_A7qm6Ip0WAp9Of_SiqRya_X7NP1cNNHLZ6-ul0U0BQCi6UmcIqwGJVMxyIjBt8Z-R1IveMW-WrzDjgWaJa0PeUcnwhWgMYE2MbzHnRJl-7GOq2-lCsJBLJApJQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3759926,33.7015065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clifford Jones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFUN-zPcgpfcty7TXJVFbQhU9xL_tHHfBdyfZjXCay-L4-TNbd1IRD3oCjY8AkMwFkQXZPfjcbc135z55N1n6BJn0tZG1d9zjutKLn2gdvsCWwOOSoVHziIE8IOKOkCpCE7K9R2GEsmBxEos3wjW-vksx5k52-WlVuAoRDZydf8dWZC-udJ8VQxQisJhL3VVppAV4tne5kBOg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jones' address was listed as 1153 Lookout Ave. NW in a Sept. 1980 AJC article.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFUN-zPcgpfcty7TXJVFbQhU9xL_tHHfBdyfZjXCay-L4-TNbd1IRD3oCjY8AkMwFkQXZPfjcbc135z55N1n6BJn0tZG1d9zjutKLn2gdvsCWwOOSoVHziIE8IOKOkCpCE7K9R2GEsmBxEos3wjW-vksx5k52-WlVuAoRDZydf8dWZC-udJ8VQxQisJhL3VVppAV4tne5kBOg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4649797,33.7863018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darron Glass</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuG5NpaWidgKT_tU-Ugl7KbpjFEZ_FiXZyszxPCOdvfeNRN8bPqMDQozSGGbv5EMIDjiRXxGRXJHfNBm9tU2oiLezHix9IMeLk72y7YuZr5gtBi5tzTVw-Gk7PSmyEzxjqafBNw9eCRdRFXXVmWU3pqH5a0gS7J8DHUQi6D61m6srbHNXQKT84QKL-bW9tzoJtkxy8fBvF9nQw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Glass' address was listed as 2289 Memorial Dr. SE in a Sept. 1980 AJC article.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuG5NpaWidgKT_tU-Ugl7KbpjFEZ_FiXZyszxPCOdvfeNRN8bPqMDQozSGGbv5EMIDjiRXxGRXJHfNBm9tU2oiLezHix9IMeLk72y7YuZr5gtBi5tzTVw-Gk7PSmyEzxjqafBNw9eCRdRFXXVmWU3pqH5a0gS7J8DHUQi6D61m6srbHNXQKT84QKL-bW9tzoJtkxy8fBvF9nQw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3119317,33.7473139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Stephens</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFkVqybWM--fEaEpjN4YFGB_FxSWoi9WtQ4M59uZ7cbcXyGXsKRwuZwCvHTuJo-RUTBzjxdt41lGEicPWLWcXa_ABBg0EX9S_zlQbFdvi4M-FmeCrJ58ag2fiKtmskn6yYkBDCCXFVXH8NwQwMhzQlg5H-a1deodQciXFn1ouOYARYz2eIk6X5aeuW5LE4BWq0gCHSGB3IJlA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Stephens lived in a public-housing project at 1701 Pryor Circle SE.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFkVqybWM--fEaEpjN4YFGB_FxSWoi9WtQ4M59uZ7cbcXyGXsKRwuZwCvHTuJo-RUTBzjxdt41lGEicPWLWcXa_ABBg0EX9S_zlQbFdvi4M-FmeCrJ58ag2fiKtmskn6yYkBDCCXFVXH8NwQwMhzQlg5H-a1deodQciXFn1ouOYARYz2eIk6X5aeuW5LE4BWq0gCHSGB3IJlA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3935289,33.7087469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Jackson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFEEMznm9Aqywleey3-Q-0Mby-6TIntBGBZveYj79eDSOMyQKsJ0Wc4fMdda2ZmhOVfdBU6c-_cJ3_c_LHgMrv5BgbKdDIwnaWvXjGpIHnSl_AwAmbzNYAABWF04u054i8EiED0qRfOKiZ-HOTeIBc6kUz5VBhyZjO4xW8roqKCqoBztb46TBGaydSraJYtzqWV6rddBZaXPg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jackson lived at 818 Norwood Rd. SE.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFEEMznm9Aqywleey3-Q-0Mby-6TIntBGBZveYj79eDSOMyQKsJ0Wc4fMdda2ZmhOVfdBU6c-_cJ3_c_LHgMrv5BgbKdDIwnaWvXjGpIHnSl_AwAmbzNYAABWF04u054i8EiED0qRfOKiZ-HOTeIBc6kUz5VBhyZjO4xW8roqKCqoBztb46TBGaydSraJYtzqWV6rddBZaXPg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3627279,33.6972023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH5D_tATM1pg0dUIgNdmieUjgOZ88NbMysduHndRXqVmAruaY2JaJI7GdbmgTGzFU43DJXp5ovN2Q4LTXUKQNq_vrnVXCVRM0wHAX5gu9fMmp_690qwuT1PpPgQovcMsheHOEBKsjIYyIVEYAPCV5Hy-MSWR4kpa2lOc3cDpX6L6X6RyF8EKyQ6F6T6Hb9PrTMpjfdrPnbEZw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Rogers lived at 1095 Henry Thomas Dr. SE No. 319.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH5D_tATM1pg0dUIgNdmieUjgOZ88NbMysduHndRXqVmAruaY2JaJI7GdbmgTGzFU43DJXp5ovN2Q4LTXUKQNq_vrnVXCVRM0wHAX5gu9fMmp_690qwuT1PpPgQovcMsheHOEBKsjIYyIVEYAPCV5Hy-MSWR4kpa2lOc3cDpX6L6X6RyF8EKyQ6F6T6Hb9PrTMpjfdrPnbEZw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3511012,33.7048723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lubie Geter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHTFQaMxXeqXchYEfzPb7HniD9kRjVEZhDVYR-cZlf29xza5msCTfjTw6VNLRjWYK96Wk3T-Oqu26oGn8Ik5-Z1nY2Sm8Xl6pp-G5n3D8wu7CMizyFM9vh9MAYzG8ipU04Kq5e-GFimjN68IkcOXUQXiC-kWEcSaPqRHpU8V658p1Hlmgz7SbQDmaVNlwMW2Mm5MUOeYBz6Dg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Geter lived on Dahlgren St. in SE Atlanta.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHTFQaMxXeqXchYEfzPb7HniD9kRjVEZhDVYR-cZlf29xza5msCTfjTw6VNLRjWYK96Wk3T-Oqu26oGn8Ik5-Z1nY2Sm8Xl6pp-G5n3D8wu7CMizyFM9vh9MAYzG8ipU04Kq5e-GFimjN68IkcOXUQXiC-kWEcSaPqRHpU8V658p1Hlmgz7SbQDmaVNlwMW2Mm5MUOeYBz6Dg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3454285,33.7491501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terry Pue</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGZEv0DXqWDe104cRx_aOYR8oiXytIHcaECednTdDoYRE8Fg0z741FI-6NzUBUEpaXjA0Cy-8Ibk2J-L5eJwBZo-B9KHcQBRrntJ9s5rTiYA-AgyUXsYN7TqgmifalOmQF3KW8kydubJGA1mIY2QEkuEWh3hciZeS7-uL-P6ujtmdn3EQ2ERW9zNIBDMtYzzr43SoYGJkcEkw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Pue lived in the Hollywood Courts public-housing project.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGZEv0DXqWDe104cRx_aOYR8oiXytIHcaECednTdDoYRE8Fg0z741FI-6NzUBUEpaXjA0Cy-8Ibk2J-L5eJwBZo-B9KHcQBRrntJ9s5rTiYA-AgyUXsYN7TqgmifalOmQF3KW8kydubJGA1mIY2QEkuEWh3hciZeS7-uL-P6ujtmdn3EQ2ERW9zNIBDMtYzzr43SoYGJkcEkw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4710545,33.7975474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Baltazar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFs6bWMA22KnVOdaiFi5PSR7LsW3fvvGZOIFqwIUd2t0f4sKqr79i1_CzF7CTcr0Shfn6VLv-Qh924shDFoUNsrmAPaYWwRJMYwkO2TX77aa5eD63YMLa1n5PwgCzuMPl7sT0XTrT2R0lcYJBB9GSkIfI7hvcsvrzPbfFxO6KBjJs0q7ilTDV0qfSjwKCyRKafL6d8lqhphTg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Baltazar lived with his father at 435 Foundry St. NW.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFs6bWMA22KnVOdaiFi5PSR7LsW3fvvGZOIFqwIUd2t0f4sKqr79i1_CzF7CTcr0Shfn6VLv-Qh924shDFoUNsrmAPaYWwRJMYwkO2TX77aa5eD63YMLa1n5PwgCzuMPl7sT0XTrT2R0lcYJBB9GSkIfI7hvcsvrzPbfFxO6KBjJs0q7ilTDV0qfSjwKCyRKafL6d8lqhphTg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.402817,33.7592003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curtis Walker</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFv4etd4oeUpcCGKWMzWsvPMWrp3rW7pITO_43wq_hV41LL1P4P0WqFAV2e3zoa90K-ltJ5thozskpfM4IRzKJ8R8OEIRFTRmEB7w82ImjXHtlR4XWyVhEhIcnEEM1oYeMZZwlPsccxbtYC-o50l975nbFpecHsITu9W2HDvjDwSINxeT65UECWEbmjrPFhtLRs8bWlHFxgAQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Walker lived at 946 Wilkes Cir. NW, Apt. 497.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFv4etd4oeUpcCGKWMzWsvPMWrp3rW7pITO_43wq_hV41LL1P4P0WqFAV2e3zoa90K-ltJ5thozskpfM4IRzKJ8R8OEIRFTRmEB7w82ImjXHtlR4XWyVhEhIcnEEM1oYeMZZwlPsccxbtYC-o50l975nbFpecHsITu9W2HDvjDwSINxeT65UECWEbmjrPFhtLRs8bWlHFxgAQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4785797,33.7812943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joseph Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGYf307IKKpYNO6Jrv2vtEj8cj6wqlmUgh8tw2zUytFYUXf8K_cYZ7fsx6A17zwGOc7zeIDUKijVf3Tb3pesCOSAMcYAYTaY_NOiKO2McZV5-D48t2r71DXsOfNUTuKMqHvRK2fjFUqjXI3US-I5Zx8X9456hqx30-249G2Zg3Zv6VR_K5fH5AeC-luuVH2DOSYV2R5NtP0Lw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bell lived at 395 Lawton St. SW.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGYf307IKKpYNO6Jrv2vtEj8cj6wqlmUgh8tw2zUytFYUXf8K_cYZ7fsx6A17zwGOc7zeIDUKijVf3Tb3pesCOSAMcYAYTaY_NOiKO2McZV5-D48t2r71DXsOfNUTuKMqHvRK2fjFUqjXI3US-I5Zx8X9456hqx30-249G2Zg3Zv6VR_K5fH5AeC-luuVH2DOSYV2R5NtP0Lw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4235239,33.7442254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Timothy Hill</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuESpFFmuWeTBZruBYo2Ioy4L-8CFcwSE20652aCSoMQMTTDKYGmrYMasxL-zY7lYuLWH8SGt_BfOneFfSuJIQTXQVa_dV-YGoi1aJ7EBWGAUfJeCX2i4l7WAD0vt2o93O-Knc82D4wyQzffTMJU7GZjkmEPwwZSc-13WIls6Qtdtpn_jxR-jxSq4ZNkbChTqzCPIdViQsg41Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Hill lived at 976 Sells Avenue SW, No. 164.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuESpFFmuWeTBZruBYo2Ioy4L-8CFcwSE20652aCSoMQMTTDKYGmrYMasxL-zY7lYuLWH8SGt_BfOneFfSuJIQTXQVa_dV-YGoi1aJ7EBWGAUfJeCX2i4l7WAD0vt2o93O-Knc82D4wyQzffTMJU7GZjkmEPwwZSc-13WIls6Qtdtpn_jxR-jxSq4ZNkbChTqzCPIdViQsg41Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4202377,33.7451999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eddie Duncan</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEY7uHty7PeEjO7AHNZz976JlNfg0C2BUpWyytfxFH_shv3Ke6vynOhzctX8fZDfEpU9Avri3T9lKYO8z2RPcZ0Ee-5Lp8LjAfBbLvFxlM6dEGca2ng1R8HPBORZuyw34r90WOOZtw24fDBPp6K9cUX6Q_cATYst8n-OzeJSR6xFJAPx2j3_387CNs-yt2_tzDfJgmtn9XXwA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Duncan lived at 194 Hunnicutt Street NW, No. 172.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEY7uHty7PeEjO7AHNZz976JlNfg0C2BUpWyytfxFH_shv3Ke6vynOhzctX8fZDfEpU9Avri3T9lKYO8z2RPcZ0Ee-5Lp8LjAfBbLvFxlM6dEGca2ng1R8HPBORZuyw34r90WOOZtw24fDBPp6K9cUX6Q_cATYst8n-OzeJSR6xFJAPx2j3_387CNs-yt2_tzDfJgmtn9XXwA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3933245,33.7664667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larry Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFMxjejXPs5My6OWxJebUIPe__046t-Lxk5Eh7KyM3SvWzLutwfwvKmwUJB1xv1hH85VHny70AVi9KgTnsGMrOpagwV_3lkkn6_HVjt-eNhtgsedgHXwfMcqjdRiJK7AYRp9qtRCfJ9zdL0DSVYvpDBiL6TlRBgtfWznMIjKStmocWYKA29x8Qub0tkQY5csMT6YABtV2cGGw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Rogers lived at 1585 Ezra Church Drive NW.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFMxjejXPs5My6OWxJebUIPe__046t-Lxk5Eh7KyM3SvWzLutwfwvKmwUJB1xv1hH85VHny70AVi9KgTnsGMrOpagwV_3lkkn6_HVjt-eNhtgsedgHXwfMcqjdRiJK7AYRp9qtRCfJ9zdL0DSVYvpDBiL6TlRBgtfWznMIjKStmocWYKA29x8Qub0tkQY5csMT6YABtV2cGGw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.439527,33.757833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michael McIntosh</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHl1ZPYPXzeQXgAX7j8dje87cD7H1me8A9jfh8JlGiYQIt9ToNSM8smsdhqcZn_FlUXmTe33E_QTJcT1gTOyCh6oxn4bN-nSLFwvqvgjpvU6OFdCvzkKcd569rkIXJdKum1d5vC0H48_Dmzv6MEbtYuEVh-_e-5sOecDgTxUfo0neBt-b09bFn7gU7tfoXlN27F1eoUb7vRjg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>McIntosh lived at 620 Windsor Street SW.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHl1ZPYPXzeQXgAX7j8dje87cD7H1me8A9jfh8JlGiYQIt9ToNSM8smsdhqcZn_FlUXmTe33E_QTJcT1gTOyCh6oxn4bN-nSLFwvqvgjpvU6OFdCvzkKcd569rkIXJdKum1d5vC0H48_Dmzv6MEbtYuEVh-_e-5sOecDgTxUfo0neBt-b09bFn7gU7tfoXlN27F1eoUb7vRjg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3981705,33.7375965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimmy Payne</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKG7sq2-YfonQRkCVbnTCt8nnUfQ5RYYm5tSzWx1owUTvKw2OY8fw1ZbAbEPdgakp0vKjo2RSpxL9LWmfNkA95CNTmpTeuC80mwFS4dI16pEpWtQV7rkxdcx3LJsA7LSkg2_6UivAiZEdxVPvUROocuorewu9SIcuO3SZe9HTS1YKExvTJiJfVxC2kgOJExD-wGuYokOcCAg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Payne lived at 566 Magnolia Street NW, No. 68.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKG7sq2-YfonQRkCVbnTCt8nnUfQ5RYYm5tSzWx1owUTvKw2OY8fw1ZbAbEPdgakp0vKjo2RSpxL9LWmfNkA95CNTmpTeuC80mwFS4dI16pEpWtQV7rkxdcx3LJsA7LSkg2_6UivAiZEdxVPvUROocuorewu9SIcuO3SZe9HTS1YKExvTJiJfVxC2kgOJExD-wGuYokOcCAg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4060652,33.7578844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Porter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHFoMKHSb09LWIgnH3KiybLn0rTTSTXZdcvuiBbeDYzI1FHsEhJe6_sBJRoQ5JLTn3W8Eph4T6cyTl2oTPPhuSYS7C9qY9ylZkVIyiF8EYqV5TIQFNZbZTMTX4FxCHbDyft8netpUABEEOWT6L8aAhdCr7Lb_RA5dKy3I8D5bJXz1ZqWnsLtBc38074wLNoOlG7SgsLK3nCvg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Porter lived with his mother at 798 Capitol Avenue SW.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHFoMKHSb09LWIgnH3KiybLn0rTTSTXZdcvuiBbeDYzI1FHsEhJe6_sBJRoQ5JLTn3W8Eph4T6cyTl2oTPPhuSYS7C9qY9ylZkVIyiF8EYqV5TIQFNZbZTMTX4FxCHbDyft8netpUABEEOWT6L8aAhdCr7Lb_RA5dKy3I8D5bJXz1ZqWnsLtBc38074wLNoOlG7SgsLK3nCvg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3876066,33.7329781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Barrett</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE52YLQ_YQkHFlcE5cFLJYoQoTksWbmothfM5ZTw4ojB9zZS2iWob7WYqVZo2UOKoNT21cSxgZm0dYommHQiAIVx-TmpQpIzctdtKsxoCrkLJumZDSLgWrbZekN4msBm47GIYflaVpQeqMjeckwvKEiTTkdxIVoEplNuE4BKk3sgC89k1j2QZuNNx8Al_laHcN9X2ZlTctkAw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Barrett lived at 346 Second Avenue in Decatur.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE52YLQ_YQkHFlcE5cFLJYoQoTksWbmothfM5ZTw4ojB9zZS2iWob7WYqVZo2UOKoNT21cSxgZm0dYommHQiAIVx-TmpQpIzctdtKsxoCrkLJumZDSLgWrbZekN4msBm47GIYflaVpQeqMjeckwvKEiTTkdxIVoEplNuE4BKk3sgC89k1j2QZuNNx8Al_laHcN9X2ZlTctkAw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3100498,33.7551981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nathaniel Cater</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFdScBpgUrAR329eM8KYMxgBgwD6ptQW6jVnmSIyLX6jjkfccFBHGcDnVm_LQ6kLXL3CWoHKe61AcShEegaldyZQ-d2rYxgNZWOvAADcD6b-GwD7ucCd8uMSfoJLo01T5Ett3kwn0pLLaxSi800eMiAkvRkl33xR12sy3ixfCKCClskyHYS2Lc3ewK4ZdSFdz7KdlQefOR1dA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Cater lived at the former Falcon Hotel located at 180 Luckie Street NW.]]></description>
+        <styleUrl>#icon-1603-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFdScBpgUrAR329eM8KYMxgBgwD6ptQW6jVnmSIyLX6jjkfccFBHGcDnVm_LQ6kLXL3CWoHKe61AcShEegaldyZQ-d2rYxgNZWOvAADcD6b-GwD7ucCd8uMSfoJLo01T5Ett3kwn0pLLaxSi800eMiAkvRkl33xR12sy3ixfCKCClskyHYS2Lc3ewK4ZdSFdz7KdlQefOR1dA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.391398,33.7589667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Victims last seen</name>
+      <Placemark>
+        <name>Edward Smith</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGz1odgx6yD1BTaL-ZsntLZbYbKrz_3y2mr_9Pd9x5I74Bth_DVCuN9A8ddVU3sT7whz9t-vZgvDo8n4fFqzId80y4cggCXyxu83dJEAmpsZ2O_Ido_cI6SeC6GH45c12gvs_ShNeUdRFPIGEKkHuDDhYbmXlCy7r-fVIr42mzNa8QCINu51FEFX4vWZnAIRz7UEuvtxwckJA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Smith was last seen around midnight on Saturday, July 21, 1979, at Church's Fried Chicken, 3667 Campbellton Rd. SW.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGz1odgx6yD1BTaL-ZsntLZbYbKrz_3y2mr_9Pd9x5I74Bth_DVCuN9A8ddVU3sT7whz9t-vZgvDo8n4fFqzId80y4cggCXyxu83dJEAmpsZ2O_Ido_cI6SeC6GH45c12gvs_ShNeUdRFPIGEKkHuDDhYbmXlCy7r-fVIr42mzNa8QCINu51FEFX4vWZnAIRz7UEuvtxwckJA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5080654,33.6903271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alfred Evans</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE8H1jVZBuGpB39x1nZCPuOqQNWj9FbFkmVjLsTmnYhslZdHoG2Da-vyhfcun-QaNVPHGNyIscmheCTe4_rN8Y-6zwPrFu6dqVy610jvoqtj_XLmxY68SKBCNo2950B9MvxABTaVykeyGv7fePJ5ppeT8PJCAyqYlOSMAk-fCMYyEcE0pTJkQhsdxiq6Gn4uMz_PtqntY3sbw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Evans was last seen around 3-4 p.m., Wednesday, July 25, 1979, at a bus stop at Glenwood Ave. at Meadow Lake Dr.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE8H1jVZBuGpB39x1nZCPuOqQNWj9FbFkmVjLsTmnYhslZdHoG2Da-vyhfcun-QaNVPHGNyIscmheCTe4_rN8Y-6zwPrFu6dqVy610jvoqtj_XLmxY68SKBCNo2950B9MvxABTaVykeyGv7fePJ5ppeT8PJCAyqYlOSMAk-fCMYyEcE0pTJkQhsdxiq6Gn4uMz_PtqntY3sbw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3096916,33.7403879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Harvey</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHNuO8qPlbtwbPfM4bv8bMqB4IIJ8dXtTX-KV4i78v0WmLnmecVVK2ehiccC617oraAXtGHAoN7PYlpzpohGLdEuevjfRfxFhl9dqjHCGS0bVMihNJStmGBptNqGFYzai9R9tf7aFFPyh4tq0w61jM3nvA-O98GTctlJZYbC20m4CQJRkhWE_TL_lXytN-n9_5gLbYCZiSb4g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Harvey was last seen Tuesday, Sept. 4, 1979 in the Nash Road area around 10:30 a.m.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHNuO8qPlbtwbPfM4bv8bMqB4IIJ8dXtTX-KV4i78v0WmLnmecVVK2ehiccC617oraAXtGHAoN7PYlpzpohGLdEuevjfRfxFhl9dqjHCGS0bVMihNJStmGBptNqGFYzai9R9tf7aFFPyh4tq0w61jM3nvA-O98GTctlJZYbC20m4CQJRkhWE_TL_lXytN-n9_5gLbYCZiSb4g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4945644,33.7901077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yusuf Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHFMSwZ1ZLzwv_KXhcTRBFEXXUx-GKRjrXBNg-goOd44sSPJzty9P0DqOhkhKOJgnWv6nJRSEqKXiIEZMnPnzoVkDq40brwEgcvyGIli_hm0rZreN8akr_LksboSkpvjMkTp69W3ZZYPp1PGB0-kms81bMvAQImR2mg8sIIX22iDastqbt5GCTXmId8hPUWJv740ogYwEJDgw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bell was last seen heading to Reese's Store on McDaniel Street around 5:30 p.m. on Sunday, October 21, 1979.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHFMSwZ1ZLzwv_KXhcTRBFEXXUx-GKRjrXBNg-goOd44sSPJzty9P0DqOhkhKOJgnWv6nJRSEqKXiIEZMnPnzoVkDq40brwEgcvyGIli_hm0rZreN8akr_LksboSkpvjMkTp69W3ZZYPp1PGB0-kms81bMvAQImR2mg8sIIX22iDastqbt5GCTXmId8hPUWJv740ogYwEJDgw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4031084,33.7421243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Lenair</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEV1GWA89HLWJ4Vp3OhrAcKlKA4aP0_9rBsjQ0L4yC3YnIqji7DDSmDWKXsLShs3pu05QYJJwu5xd-Be3xWKR2SAuXwIwcpLnVRUSSyuWVAWOtWZWXrtVvVSlTMf-f38A93kVnCwyjXMtDvQVSTZp0uqq1v9cUI6llZdpyAzLfHYLB0Iqc_scIjUw3V0vtzQUBTPvKYmfRpNw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Lenair was last seen at her home around 7:30 p.m. on Tuesday, March 4, 1980.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEV1GWA89HLWJ4Vp3OhrAcKlKA4aP0_9rBsjQ0L4yC3YnIqji7DDSmDWKXsLShs3pu05QYJJwu5xd-Be3xWKR2SAuXwIwcpLnVRUSSyuWVAWOtWZWXrtVvVSlTMf-f38A93kVnCwyjXMtDvQVSTZp0uqq1v9cUI6llZdpyAzLfHYLB0Iqc_scIjUw3V0vtzQUBTPvKYmfRpNw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4427879,33.709843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jefferey Mathis</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH-2_CTIMfbjgW-k-D4vvzge0cm07IgWyLnk30Fw7O4DiR6NnwYE_Ti6KhJYuv6I-FsUq8cqTjdJyUlcQsMKORxqt9Ltddr7grGMtvuNqMBrgfTiGGlYM_fr7KyBO22VsZ7Brd5PvYLsTb5JTAD9S5AfpXC8oZ0oN4Vg8Ui0tpLeqZqBVCSA7lbXHi3uov02PrUu7SfB6zgtg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Mathis was last seen headed to the former Star Service Station at 1575 Gordon St. (now Ralph David Abernathy Blvd.) around 7 p.m. on Tuesday, March 11, 1980.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH-2_CTIMfbjgW-k-D4vvzge0cm07IgWyLnk30Fw7O4DiR6NnwYE_Ti6KhJYuv6I-FsUq8cqTjdJyUlcQsMKORxqt9Ltddr7grGMtvuNqMBrgfTiGGlYM_fr7KyBO22VsZ7Brd5PvYLsTb5JTAD9S5AfpXC8oZ0oN4Vg8Ui0tpLeqZqBVCSA7lbXHi3uov02PrUu7SfB6zgtg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4390494,33.744968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eric Middlebrooks</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHXb06T838HGYk3NNaqZ-_EwKaA0VNrLq6krl8gqczGscAwxD6YLQVRJaO3q7VRhzfBpXndCfmetK-27Ga-S68qPs67PEn41lRItMWaX9JaXcLlBHQD1rhkq3efdHhUvj7zFjtpDkb_fqT-i31IM-GAAtQequGWP0OoVWNc1wt7m4UKqzHH0h9pgBCMr2ofprn5OkJ_pN5ReQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Middlebrooks was last seen around 10:30 p.m. on Sunday, May 18, 1980, at his home, 345 Howell Dr SE.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHXb06T838HGYk3NNaqZ-_EwKaA0VNrLq6krl8gqczGscAwxD6YLQVRJaO3q7VRhzfBpXndCfmetK-27Ga-S68qPs67PEn41lRItMWaX9JaXcLlBHQD1rhkq3efdHhUvj7zFjtpDkb_fqT-i31IM-GAAtQequGWP0OoVWNc1wt7m4UKqzHH0h9pgBCMr2ofprn5OkJ_pN5ReQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3498819,33.744089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christopher Richardson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHWdy6oVQxgtWwrkcJAddeBS4K3bPVG6w_Zvd1ONeYe07nOYSTX4GpaB0OFuQ5EhlOJqoB9pExLkOFs1H5WWS95eGq5Xk1kqkJPyVtYRZ2A14WKsbPqmF5lHUPghfpamfDJjxZbwjROk7348JGV-puS2sSrFZfPupNN8zvoA3r4JjseHiaMC2k0waFZ8mQ6eQGqUOrGjatN7A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Richardson was last seen at Krystal Hamburgers (now another business) at 3385 Memorial Drive in Decatur on Monday, June 9, 1980, around 1:30 p.m.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHWdy6oVQxgtWwrkcJAddeBS4K3bPVG6w_Zvd1ONeYe07nOYSTX4GpaB0OFuQ5EhlOJqoB9pExLkOFs1H5WWS95eGq5Xk1kqkJPyVtYRZ2A14WKsbPqmF5lHUPghfpamfDJjxZbwjROk7348JGV-puS2sSrFZfPupNN8zvoA3r4JjseHiaMC2k0waFZ8mQ6eQGqUOrGjatN7A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.2729591,33.7507445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latonya Wilson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEMyHJ2Byq5gigA8P15m4zUm5spNaINc78a5kQvQ75OjV8pOsNKaHOeixvEwBRYGdPmMGKevCeYv0XmxNBHPORMAqcqf2ohFM0pPG5bjm5UAvE5hLGtMfOt7JkfaJr3rXe-LhpBPCs2sUnSEBmM1LaNC5sIiTPljlfbLvvMCKwZPq0SXEBwzI1tWG3jFaEkKR4Y5AexTQ2v9w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wilson was last seen at her home, 2261 Verbena St. NW, on Sunday, June 22, 1980, in the early morning.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEMyHJ2Byq5gigA8P15m4zUm5spNaINc78a5kQvQ75OjV8pOsNKaHOeixvEwBRYGdPmMGKevCeYv0XmxNBHPORMAqcqf2ohFM0pPG5bjm5UAvE5hLGtMfOt7JkfaJr3rXe-LhpBPCs2sUnSEBmM1LaNC5sIiTPljlfbLvvMCKwZPq0SXEBwzI1tWG3jFaEkKR4Y5AexTQ2v9w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4607052,33.7571021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Wyche</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFhBdlPJdemzeCsH0WRiVwY-WWuso2r8To1QriLR_q6VwU0vqU-bY8Bz5fdns20qA8pzVclDvuAKEX9uNyF1aUr3LyomI5ptI6WWm7jdS-6id5Q5nquiivXiLrJg2KDaEY3HAYEGjkMv77iZzhyZBkmkjjGhunbREPP6-fyVigRaVmAUi93udZh_cJiq-Ouxkvq-2lKO0Z7tw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wyche was last seen at Tanner's Grocery, 828 McDonough Blvd. SE, on Monday, June 23, 1980 around 6 p.m.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFhBdlPJdemzeCsH0WRiVwY-WWuso2r8To1QriLR_q6VwU0vqU-bY8Bz5fdns20qA8pzVclDvuAKEX9uNyF1aUr3LyomI5ptI6WWm7jdS-6id5Q5nquiivXiLrJg2KDaEY3HAYEGjkMv77iZzhyZBkmkjjGhunbREPP6-fyVigRaVmAUi93udZh_cJiq-Ouxkvq-2lKO0Z7tw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3594421,33.7093726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony Carter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE3Oe4yamfEOZd5sJExjBBXvw3pnznvG5mSkwajMUpfcZmvQtGBUaLAyUTi5cqBvgRHnp9p40jVpMfX3fcJEhBuszpJmZuU4BrHJuT2SwHTwzx3csixCa1PTYzkTlLvzn33UGtrUpvpov23tQe21kfKJqTlKrmpEGsMycXKd5ynnwxFNgl9OG9hBadlMmXet6qMgHU96_fPyw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Carter was last seen Sunday, July 6, 1980, around 1:30 a.m. at 939 Cunningham Place.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE3Oe4yamfEOZd5sJExjBBXvw3pnznvG5mSkwajMUpfcZmvQtGBUaLAyUTi5cqBvgRHnp9p40jVpMfX3fcJEhBuszpJmZuU4BrHJuT2SwHTwzx3csixCa1PTYzkTlLvzn33UGtrUpvpov23tQe21kfKJqTlKrmpEGsMycXKd5ynnwxFNgl9OG9hBadlMmXet6qMgHU96_fPyw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4187306,33.7432401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl Terrell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE8wagtejGnl-n7wRa3oGvsg5BIKc3ggX8BEmY48tfLT1SDBqlRAQMcdjXU8qYqZwnaBOrEkxoD-KxzCggdRblJ1N9qVsG0UophPmgnyUo3YowOJQMbQ0TjDQm7Rza_QKX9Oy5XgOMtu9kh170pMiTPDwQcTXw7W-Tb0FNaNAAtYbSxWUKBL8vFJoQUzGu9otT1HCylP-MVeg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Terrell was last seen outside of the South Bend Park Pool near Lakewood Avenue on Wednesday, July 30, 1980, around 3:30 p.m.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE8wagtejGnl-n7wRa3oGvsg5BIKc3ggX8BEmY48tfLT1SDBqlRAQMcdjXU8qYqZwnaBOrEkxoD-KxzCggdRblJ1N9qVsG0UophPmgnyUo3YowOJQMbQ0TjDQm7Rza_QKX9Oy5XgOMtu9kh170pMiTPDwQcTXw7W-Tb0FNaNAAtYbSxWUKBL8vFJoQUzGu9otT1HCylP-MVeg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3877754,33.7004161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clifford Jones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF8rWdbieO8MS-v0VodlFTV_IiN9jShf6P-3lGdTji4tvTxjL0RaJUYipYk7Nc4b8tI36akg1jiYzl9IVHiWqf574czlXwWDpspz72yELmQgzSoyI78OTu-HBPl23cP3uMKv94nAI0d1V1827xX6Rg65bQ-wHeyXBN3SEoN2sfiz80jheaq0z0H6SEMFxkZD6fNhHmgSCY0zQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jones was last seen Wednesday, August 20, 1980, around 12:40 p.m. at St. James Drive and Lookout Avenue.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF8rWdbieO8MS-v0VodlFTV_IiN9jShf6P-3lGdTji4tvTxjL0RaJUYipYk7Nc4b8tI36akg1jiYzl9IVHiWqf574czlXwWDpspz72yELmQgzSoyI78OTu-HBPl23cP3uMKv94nAI0d1V1827xX6Rg65bQ-wHeyXBN3SEoN2sfiz80jheaq0z0H6SEMFxkZD6fNhHmgSCY0zQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4651879,33.7847822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darron Glass</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFOG8I_FZ9KEyiZN66LTGNem1_0k46vOpSiH0neCBhy02g_fqK2T54pU3-mqIe75YYeCdBoDHfg1BfLiOZvjQBhWFcc3M81R4yEaqWTVKdJBkCvvyO4xV9HQV8D-w3E1rgVcvDpl1xxjK1oHFJocEUFAYQBVwZNFHT-H7DThJCO2ixBcfV-afLofw-_7CJMrCR0dpzB5ihC9g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Glass was last seen Sunday, September 14, 1980, around 5:30 p.m. at his home, 2289 Memorial Drive.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFOG8I_FZ9KEyiZN66LTGNem1_0k46vOpSiH0neCBhy02g_fqK2T54pU3-mqIe75YYeCdBoDHfg1BfLiOZvjQBhWFcc3M81R4yEaqWTVKdJBkCvvyO4xV9HQV8D-w3E1rgVcvDpl1xxjK1oHFJocEUFAYQBVwZNFHT-H7DThJCO2ixBcfV-afLofw-_7CJMrCR0dpzB5ihC9g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3119317,33.7473139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Stephens</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGTRPLEvwCggoytRRV-P9G3mAy0lLva2_YzWa4_4YbCAbEVs-B6W_PfXol2v3f_6Gjg1dVszHJPzCMAwsKHTnvaW4ZOADmGSwy4eK5_mX2Ns0mgxgOiGEdL7Wln0Bt6igUWTIlhVShzWna3-QKVDXh5ofOkMdb9-W8Z-V2krdwKr0IUAyQ2YJdq-xHAkMQyYM-BYGqfKKVBDQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Stephens slipped away from his home at 1701 Pryor Circle before disappearing around 4:30 p.m. on Thursday, October 8, 1980.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGTRPLEvwCggoytRRV-P9G3mAy0lLva2_YzWa4_4YbCAbEVs-B6W_PfXol2v3f_6Gjg1dVszHJPzCMAwsKHTnvaW4ZOADmGSwy4eK5_mX2Ns0mgxgOiGEdL7Wln0Bt6igUWTIlhVShzWna3-QKVDXh5ofOkMdb9-W8Z-V2krdwKr0IUAyQ2YJdq-xHAkMQyYM-BYGqfKKVBDQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3935933,33.7087157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Jackson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFDJaCyg_oZp__v4Kd6fEO7kMcIaTnJaK775CjH5fjlG1vRVTRvgSs9Vimve-zv8XZp-rXsyHbIwVvw5VWzJE8P4jGqf2oB3v71odeu7LANwFFYRE4b59Odu6KteR4oMmapkhkrob-3cKPUB6nH0U9HbGLxgOKEna7ziTJuj6__THbkEbPo081wyzZDqThkuChhmRCwZ_NMUg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jackson was last seen Saturday, November 1, 1980, around 7 a.m. at the Moreland Shopping Center, located at Moreland and Custer Avenues.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFDJaCyg_oZp__v4Kd6fEO7kMcIaTnJaK775CjH5fjlG1vRVTRvgSs9Vimve-zv8XZp-rXsyHbIwVvw5VWzJE8P4jGqf2oB3v71odeu7LANwFFYRE4b59Odu6KteR4oMmapkhkrob-3cKPUB6nH0U9HbGLxgOKEna7ziTJuj6__THbkEbPo081wyzZDqThkuChhmRCwZ_NMUg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3493943,33.7146637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHDQW0FVvoJSBdovqAXtcw9-AW3Jjmo1DEvw3YWFQQPbE2UZCOYoijDBg8z1IStGo53YYtCcgFJBiN46FWnXmrTH6AmmXg8fkOgr6sjRnmL6j_5-HVd8vQ9MQpC4fzj_oWju_HF3PamqDWyC-ppPA3hZiXijPzLIlK0-TVcO39ozyzbZ2YcJBPim1GTYHtJHljPVjxKxWRouA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Rogers was last seen Monday, November 10, 1980, around 7:05 a.m. at a bus stop in the 1100 block of Henry Thomas Drive.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHDQW0FVvoJSBdovqAXtcw9-AW3Jjmo1DEvw3YWFQQPbE2UZCOYoijDBg8z1IStGo53YYtCcgFJBiN46FWnXmrTH6AmmXg8fkOgr6sjRnmL6j_5-HVd8vQ9MQpC4fzj_oWju_HF3PamqDWyC-ppPA3hZiXijPzLIlK0-TVcO39ozyzbZ2YcJBPim1GTYHtJHljPVjxKxWRouA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3510468,33.7043507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lubie Geter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEg0dSLafYu1TEFKYFb8T7K3VcVkmpozaUX2UIUlX4KzXMxDShkEzBRpfsRhovTVYL03IijhnzZak63IaJBixq6MnYc7kYmfZV0ntsAaJCx8rg9qrO8N8XD8K8BBS4rdXfslrtFiAOt5yZMJgl0YpVUb8T312v8PuKE2lEazgxqiC9BZFoxbUG377SU022Sjnib6uwLJ7hTjg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Geter was last seen around 1-2:30 p.m. in front of the (former) Big Star store at Stewart-Lakewood Shopping Center. ]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEg0dSLafYu1TEFKYFb8T7K3VcVkmpozaUX2UIUlX4KzXMxDShkEzBRpfsRhovTVYL03IijhnzZak63IaJBixq6MnYc7kYmfZV0ntsAaJCx8rg9qrO8N8XD8K8BBS4rdXfslrtFiAOt5yZMJgl0YpVUb8T312v8PuKE2lEazgxqiC9BZFoxbUG377SU022Sjnib6uwLJ7hTjg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4095874,33.7003321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terry Pue</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHoXJHDfnyAzQFVmM_xAiyi9MjGUvSdJNC17fOAjAxyDySX_bnfhP3pSMD9rqPrVt1P17mQR8qK3374OOb69c6Jyfp5r86jiJug-3GS8c-umfUTfW6uN9ILmXX-4lLZeapEAuaSQpNoMWCU3zFaISEj2-KikwumJMHBZw6mkUz15IFlNl0o8-1ouqOHOSCrkBgzWP9eQrViTg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Pue was last seen Thursday, January 22, 1981, around 2 p.m. at the (former) Shoney's, 4975 Memorial Drive.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHoXJHDfnyAzQFVmM_xAiyi9MjGUvSdJNC17fOAjAxyDySX_bnfhP3pSMD9rqPrVt1P17mQR8qK3374OOb69c6Jyfp5r86jiJug-3GS8c-umfUTfW6uN9ILmXX-4lLZeapEAuaSQpNoMWCU3zFaISEj2-KikwumJMHBZw6mkUz15IFlNl0o8-1ouqOHOSCrkBgzWP9eQrViTg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.2290734,33.7906121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Baltazar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHHf3EbJbdsr2u7YZur9uy5adE4WtzFkBKLv6Okzdnplo1uUBy5NOrKsef0tCjd8wZ5PQ8oirKZ-jDkdBPyuA40WI0MKHFikXe_N6zmhNNRtKfbbmEHikzALjp1otBUbKkBHmXdt1fcAs22W8nojHq8c5yvR9gSSH6OVJmHzP43Qm_xIh_sXlQqxc532x9zYmSPn5Yxf433xA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Baltazar was last seen at the (former) Fisherman's Cove Restaurant at 201 Courtland Street on Friday, February 6, 1981, around 5:30 p.m.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHHf3EbJbdsr2u7YZur9uy5adE4WtzFkBKLv6Okzdnplo1uUBy5NOrKsef0tCjd8wZ5PQ8oirKZ-jDkdBPyuA40WI0MKHFikXe_N6zmhNNRtKfbbmEHikzALjp1otBUbKkBHmXdt1fcAs22W8nojHq8c5yvR9gSSH6OVJmHzP43Qm_xIh_sXlQqxc532x9zYmSPn5Yxf433xA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3839788,33.759906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curtis Walker</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFF_Jlo5c5ienN7dq_P0X3jNxD7eyJ9ynuROCbyeJbU_hQ6c_Pbr9OTfRUqvwJQkLqWn7rSxIs3SAexvWDHxHrbIlJxxV34ejp-zE5t_6NzF5qRTor2gw5Ny1OZJNg1IC4sp8AjviWhYBA4GznVPcqWs-HTD0oaebj2jkvtEzPpPUXRgbGJzJLsvlv6unSFmIBUpj7F0MeHEg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Walker was last seen around 4:30-6:30 p.m. on Thursday, February 19, 1981, near the (former) Byron Gun Club on Bankhead Highway.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFF_Jlo5c5ienN7dq_P0X3jNxD7eyJ9ynuROCbyeJbU_hQ6c_Pbr9OTfRUqvwJQkLqWn7rSxIs3SAexvWDHxHrbIlJxxV34ejp-zE5t_6NzF5qRTor2gw5Ny1OZJNg1IC4sp8AjviWhYBA4GznVPcqWs-HTD0oaebj2jkvtEzPpPUXRgbGJzJLsvlv6unSFmIBUpj7F0MeHEg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4793586,33.7793865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joseph Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHUZp__lQb2bikPSH1EZRlmJFKPPMLsxzjiyJFTNoVpgh4dJm5lVcyAaBE9iqJrGzMmEGHEaz5HM1QmdABZ3365Ao-gpV-WWQw0FgEQz1bN8OpDcTxB7GGF1v1JD63OlVqOyA-1RzkTiCv7HknVAc_618KvyX9nCn7ehjjHQDUdk02tr99iFZU-NZMuNM5mMRkqFCS3a5ypXw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bell was last seen Monday, March 2, 1981, at Cap'n Peg's seafood restaurant at 325 Georgia Ave. Time last seen is not available.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHUZp__lQb2bikPSH1EZRlmJFKPPMLsxzjiyJFTNoVpgh4dJm5lVcyAaBE9iqJrGzMmEGHEaz5HM1QmdABZ3365Ao-gpV-WWQw0FgEQz1bN8OpDcTxB7GGF1v1JD63OlVqOyA-1RzkTiCv7HknVAc_618KvyX9nCn7ehjjHQDUdk02tr99iFZU-NZMuNM5mMRkqFCS3a5ypXw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3770603,33.7362899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Timothy Hill</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH8VpqohfXwJdtvwTsIzhUdH4jYgChtankwjEDFestJ9lZ_BKcXyUv49g_q_Y4lZen_cbCTRX6gyW72pXfvrdjHDslUk1dm9S_fi5LUuhBc2ERryXqkRcnp6F2kZZMuW0vb-omeqX04-JQ9kIf8XzwNeA698XbmCmalaC6DxEmM0d2pO_Q8hctFuktxiLRUb2lnHobrlZua6A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Hill was last seen in the rear of the property at 987 Sells Avenue on Wednesday, March 11, 1981, around 2:30-5:30 p.m.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH8VpqohfXwJdtvwTsIzhUdH4jYgChtankwjEDFestJ9lZ_BKcXyUv49g_q_Y4lZen_cbCTRX6gyW72pXfvrdjHDslUk1dm9S_fi5LUuhBc2ERryXqkRcnp6F2kZZMuW0vb-omeqX04-JQ9kIf8XzwNeA698XbmCmalaC6DxEmM0d2pO_Q8hctFuktxiLRUb2lnHobrlZua6A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4202773,33.7455416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eddie Duncan</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEoiKz64eBX1OzI9gM4yyWL_jHhbZtCUDBhSGcy59n6dY6p9dvYPVTt1MYU3wyMZyF0ZTZCX98QNIW6CPSacFnlLRt_sadm3INeRARp1V8gEomOHgBqwGs-N7h0S97qt4kS7FFcPSGCxJamvTUsQlsejYMFuAfMa6PBm-lbqImpA0P730d6zywbNTln6jgAbI3Fx9pmAdisyg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Duncan was last seen at the playroom at Mills Street and Techwood Drive (now known as Centennial Olympic Park Dr.) on Friday, March 20, 1981. Time last seen is not available.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEoiKz64eBX1OzI9gM4yyWL_jHhbZtCUDBhSGcy59n6dY6p9dvYPVTt1MYU3wyMZyF0ZTZCX98QNIW6CPSacFnlLRt_sadm3INeRARp1V8gEomOHgBqwGs-N7h0S97qt4kS7FFcPSGCxJamvTUsQlsejYMFuAfMa6PBm-lbqImpA0P730d6zywbNTln6jgAbI3Fx9pmAdisyg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3919403,33.7653258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larry Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE75RnmE9guN9887ps53gUac0jDrGPA8VfNB8SXMZ6No9CiSB8_wbA8VkaZgCQ9Xq3TrmS6DnJvTnLDVQXhx8UxNxOrd34JyQvwSE7KeYgfQDjJK4VGMsTrj2qPQY2r0T02mJHAWMma3KMba1TbkDTEr1IJ1ne6YuSaHU_wHWpxiSG4zZnezLklZKVjGxG_-oBvJH3s1W4Ydw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Rogers was last seen on the afternoon of Monday, March 30, 1981, in the area of Westlake Avenue, Ezra Church Drive and Simpson Road (now Boone Boulevard).]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE75RnmE9guN9887ps53gUac0jDrGPA8VfNB8SXMZ6No9CiSB8_wbA8VkaZgCQ9Xq3TrmS6DnJvTnLDVQXhx8UxNxOrd34JyQvwSE7KeYgfQDjJK4VGMsTrj2qPQY2r0T02mJHAWMma3KMba1TbkDTEr1IJ1ne6YuSaHU_wHWpxiSG4zZnezLklZKVjGxG_-oBvJH3s1W4Ydw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4418844,33.7634778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michael McIntosh</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEwfVi-EUj4jnNOKXuzd1utY1raa4Fvmdfl5Liexa7fbzLZ_VHL6_8y8wF1c7iMVDo7PooEHTpSyuT92xI4r8JBUZBJgfa_09w8LkC7QA-X1QxIp0miG443-SVMTBA-BATpL3cM9PRLzrtluWTRrWa-6dwob6gV5kcgJ2MixVGTJts9JepLro15tCbakAa3e4ykNLNNUFRMBQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>McIntosh is believed to have last been seen near his home at 620 Windsor Street SW around April 1, 1981. Time last seen is not available.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEwfVi-EUj4jnNOKXuzd1utY1raa4Fvmdfl5Liexa7fbzLZ_VHL6_8y8wF1c7iMVDo7PooEHTpSyuT92xI4r8JBUZBJgfa_09w8LkC7QA-X1QxIp0miG443-SVMTBA-BATpL3cM9PRLzrtluWTRrWa-6dwob6gV5kcgJ2MixVGTJts9JepLro15tCbakAa3e4ykNLNNUFRMBQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3981705,33.7375965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimmy Payne</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFsMJNMf4tSftwpjdmd4pUz6Dc5t6W1HemflhE5hFCr_15Cv9KaKsJcnzQdhNaRW_Ojde3V7pkAhkxRSQYQfMpvzWST25wKdI8CjeZIFpmaN7w5EkYtXrm79hLMPK-oubZYiWAzYLOmrbjCUhbdMdkm6ZllOJb7S-8RemPQ3NIRzkAgTA0oxKBhwfWdBXLHED2Af6P-aHX2Ww?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Payne was last seen Wednesday, April 22, 1981, around 10:30 a.m. at his home on 566 Magnolia Street NW.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFsMJNMf4tSftwpjdmd4pUz6Dc5t6W1HemflhE5hFCr_15Cv9KaKsJcnzQdhNaRW_Ojde3V7pkAhkxRSQYQfMpvzWST25wKdI8CjeZIFpmaN7w5EkYtXrm79hLMPK-oubZYiWAzYLOmrbjCUhbdMdkm6ZllOJb7S-8RemPQ3NIRzkAgTA0oxKBhwfWdBXLHED2Af6P-aHX2Ww?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4060652,33.7578844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Barrett</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEPWc6Swosbf0O_yDAG1Dwf4hyz0hWL1D8ZZQ-RmC_c0vqwZHeEGfA2QVxwkzXGI9VNMgNMfuccAAo_FoFIVIiKoDvET0mlJEfh6QC6q5FOF1Z-ona5930zxVQvDR7IRdsIg5y5YW7K_vOzK9hdJMr2MT80LdD-hA5Eiv1u_hQONvFQYRrqizsA_iaB9TcvxOjModSRtxvs7Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Barrett was last seen Monday, May 11, 1981, around 5 p.m. in his Kirkwood-East Lake neighborhood along Memorial Drive.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEPWc6Swosbf0O_yDAG1Dwf4hyz0hWL1D8ZZQ-RmC_c0vqwZHeEGfA2QVxwkzXGI9VNMgNMfuccAAo_FoFIVIiKoDvET0mlJEfh6QC6q5FOF1Z-ona5930zxVQvDR7IRdsIg5y5YW7K_vOzK9hdJMr2MT80LdD-hA5Eiv1u_hQONvFQYRrqizsA_iaB9TcvxOjModSRtxvs7Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3097406,33.7472852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nathaniel Cater</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF6cSY3X8UZ5n8r1jVncazftHm2qPpJjr29uU4wRpMGOHLFfiLsMNVtEcG20hS0TsE_gwp2dnLDkS1ozFTO8bc0KV-Esn5VIg_35f5JZ9mSCgzpN-pv_bQhyaVkdLS41YZFjx6AXshJkdh01StJOmqVrZncumpv0c8g05ozCzsJpRDDU-Uk4xRDEuOfd8CRYMx-p4S3yWNp1w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Cater was last seen in Central City Park (now Woodruff Park) on the morning of Thursday, May 21, 1981.]]></description>
+        <styleUrl>#icon-1608-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF6cSY3X8UZ5n8r1jVncazftHm2qPpJjr29uU4wRpMGOHLFfiLsMNVtEcG20hS0TsE_gwp2dnLDkS1ozFTO8bc0KV-Esn5VIg_35f5JZ9mSCgzpN-pv_bQhyaVkdLS41YZFjx6AXshJkdh01StJOmqVrZncumpv0c8g05ozCzsJpRDDU-Uk4xRDEuOfd8CRYMx-p4S3yWNp1w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3885495,33.7553987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Victims found</name>
+      <Placemark>
+        <name>Edward Smith</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFCrF8Pi3TU5GLUg99s8uvnG75sb1WUMwwf8b1oIN0f2GwR9A39MWruh4EwHtPymii5nQRAffL-yjNQqiMcrnZtifJCfSE_2xb9CYolQhSrx-8vPoILHi64TaFqiaes7ZbhT5LdMeYtTVMOClx0b02Pkpoig60d5iYrK1kfgOUv7ktU9mcd8vcQesXfBX0Ms9chvFFNR1r8RA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Smith was found dead in a wooded area near 1881 Niskey Lake Rd. in SW Atlanta. The body of Alfred Evans was found 150 feet away.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFCrF8Pi3TU5GLUg99s8uvnG75sb1WUMwwf8b1oIN0f2GwR9A39MWruh4EwHtPymii5nQRAffL-yjNQqiMcrnZtifJCfSE_2xb9CYolQhSrx-8vPoILHi64TaFqiaes7ZbhT5LdMeYtTVMOClx0b02Pkpoig60d5iYrK1kfgOUv7ktU9mcd8vcQesXfBX0Ms9chvFFNR1r8RA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5299813,33.6967199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alfred Evans</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGN0oxniHHCHYBqVwQEDWw5Sf71jbIA5LxYA3BEh-W9dQCGF7D9Uoy53vCrgjvr95JmnFqij0D_oNkLHHSjzzswkXM1zSWzcqDm1qLbNOYrCoc4skkyEWfoYXU3du73oThU5ovVxcJSHPuNaOlBgmoHULJmJ5RYFGMvBSJtxvU56PZQlgf3Q7U3_fSR0H1S7BPJIpGf5S-6hQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Evans' was found strangled in a wooded area near 1881 Niskey Lake Rd. SW. His body was located 150 feet from Edward Smith's.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGN0oxniHHCHYBqVwQEDWw5Sf71jbIA5LxYA3BEh-W9dQCGF7D9Uoy53vCrgjvr95JmnFqij0D_oNkLHHSjzzswkXM1zSWzcqDm1qLbNOYrCoc4skkyEWfoYXU3du73oThU5ovVxcJSHPuNaOlBgmoHULJmJ5RYFGMvBSJtxvU56PZQlgf3Q7U3_fSR0H1S7BPJIpGf5S-6hQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5290371,33.696345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Harvey</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuG0kKYdnEWJOw0vDVYuAzw7BDd8nXwOZceBVWiLmCW6QyOJUyJmwZW35rvrP0SyDG8TFJAL4UYqghwht0SCbFUdQtBsyWfdqioRf1wFLIE6YcxGeZbdJsHACIn0L4lEEX1D9TUgw5HOVzs3nTm-8qykjKUjUD8x0UOMIZM9WUn-yxIzZSMEx2C4iOY_mJ0NNiAh1tgksbnevQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Harvey was found dead of undetermined causes near the intersection of Redwine Rd. and Desert Dr. in East Point. The site was close to where the bodies of Christopher Richardson and Earl Terrell were found together on January 9, 1981.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuG0kKYdnEWJOw0vDVYuAzw7BDd8nXwOZceBVWiLmCW6QyOJUyJmwZW35rvrP0SyDG8TFJAL4UYqghwht0SCbFUdQtBsyWfdqioRf1wFLIE6YcxGeZbdJsHACIn0L4lEEX1D9TUgw5HOVzs3nTm-8qykjKUjUD8x0UOMIZM9WUn-yxIzZSMEx2C4iOY_mJ0NNiAh1tgksbnevQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4950951,33.6603747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yusuf Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFHG3cYKXUwg8t9D6DZMSNwiO0oUn8cRIC2YkcFsfbDy4_0gPPJKbXjmkS-Nn8ofjZNlL4ulWwtfT4_IHvEewR5wtSu_Pq0TGJ58mUucpqkQ3r23JWPbaaeNkjnqZRzz8S6V6WNz7PNsvmeCo-2NGNSuZokhxaEpUyNygZRnSKWNq1qxTwwT3sN10Vtr1gMruzs8wLBTxAtvQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bell's body was found in the abandoned Johnson Elementary School at 494 Martin St. SE.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFHG3cYKXUwg8t9D6DZMSNwiO0oUn8cRIC2YkcFsfbDy4_0gPPJKbXjmkS-Nn8ofjZNlL4ulWwtfT4_IHvEewR5wtSu_Pq0TGJ58mUucpqkQ3r23JWPbaaeNkjnqZRzz8S6V6WNz7PNsvmeCo-2NGNSuZokhxaEpUyNygZRnSKWNq1qxTwwT3sN10Vtr1gMruzs8wLBTxAtvQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.383817,33.7411445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Lenair</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGapsJBHAyiCSRcbe8OrBU7e9c-Xw5X5Er0qbNLLoHF6kWAkr5OpnmApfo-8RAD8T1fd4ftEduwBoeLAMMo9nYzeJ7g5ZhfrZZ4k4iyqp6hIzC63xHQn9ZYnGoBGvixhcCFUl1Rd0lgK5t27gFgD3xcGmqOMLK4MdCgoXZjn3fSRyIUlTrIGnjeMUpFWl8ND7i-0GRuQ03czw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Lenair was found asphyxiated near the intersection of Campbellton Rd. and Willowbrook Dr. SW.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGapsJBHAyiCSRcbe8OrBU7e9c-Xw5X5Er0qbNLLoHF6kWAkr5OpnmApfo-8RAD8T1fd4ftEduwBoeLAMMo9nYzeJ7g5ZhfrZZ4k4iyqp6hIzC63xHQn9ZYnGoBGvixhcCFUl1Rd0lgK5t27gFgD3xcGmqOMLK4MdCgoXZjn3fSRyIUlTrIGnjeMUpFWl8ND7i-0GRuQ03czw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4469259,33.710899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jefferey Mathis</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHGf8qt9gZC1uIrOa9Lu5ukEvcXJg5eF9Fk0FxGZXLmwPRJu8awnVpKdTakDGTu0RmxZV7e9Ar5Vts1XYTn6f11LXjrz7zac_bA8nFn3bjorUIjOgvSWW4ZyirHYmoK_ZoYHgPos-IGRKwxz9M2w5hoZZ8F9g1ymwx_vUWW3koEimQ-MAN8cuhgIEQlTV1h_AlsEAzuVRv0QQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Mathis' body was found February 13, 1981, in a clump of bushes near Suber Road. His cause of death was listed as unknown.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHGf8qt9gZC1uIrOa9Lu5ukEvcXJg5eF9Fk0FxGZXLmwPRJu8awnVpKdTakDGTu0RmxZV7e9Ar5Vts1XYTn6f11LXjrz7zac_bA8nFn3bjorUIjOgvSWW4ZyirHYmoK_ZoYHgPos-IGRKwxz9M2w5hoZZ8F9g1ymwx_vUWW3koEimQ-MAN8cuhgIEQlTV1h_AlsEAzuVRv0QQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5815048,33.7002701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eric Middlebrooks</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEH7zheEYAosII5-ra4E5H6BcSO0Zg_qdZ7O9g99oJ646ckaeSYgLecwbZ3Po5x_Me53pRe2htvZSZm3usNk-F7wu4V_PW-e6gz3YdWB0oYJmaviVJkf5O5EPK8WiHME85XufpeDlTUKRAYu6PeNrOLs0j1IBwXtKjL50fQQVVDjqm2bg1jXARQ9lnXTEetFJSgvISHNogGlQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Middlebrooks' body was found at 247 Flat Shoals Rd. He died of head injuries and stab wounds.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEH7zheEYAosII5-ra4E5H6BcSO0Zg_qdZ7O9g99oJ646ckaeSYgLecwbZ3Po5x_Me53pRe2htvZSZm3usNk-F7wu4V_PW-e6gz3YdWB0oYJmaviVJkf5O5EPK8WiHME85XufpeDlTUKRAYu6PeNrOLs0j1IBwXtKjL50fQQVVDjqm2bg1jXARQ9lnXTEetFJSgvISHNogGlQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3121168,33.7203775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christopher Richardson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHfUpKd6_8zhNoInh6dhzkdMiIJlBdWtOYoWghuqfk4tZ0uOZyPNu0xQIitXmaO0m0Qm_KFkI_diW3dRxQ9hSsYIMVngJRXnSqS7Y3fDmBPAVE16ZJCCLDb1BE2Y-l7jp_Odv8nV_3gBqPsXHRpkM3f8edtvBoPemGit5i5pLs1IKzsYF1FOMoJEVRn3UUw626hOaNgFOYHNQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Richardson's body was found off Redwine Road near the intersection of Desert Drive. The body of Earl Terrell was found 75 feet away. The site was close to where Milton Harvey's body was found Nov. 16, 1979.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHfUpKd6_8zhNoInh6dhzkdMiIJlBdWtOYoWghuqfk4tZ0uOZyPNu0xQIitXmaO0m0Qm_KFkI_diW3dRxQ9hSsYIMVngJRXnSqS7Y3fDmBPAVE16ZJCCLDb1BE2Y-l7jp_Odv8nV_3gBqPsXHRpkM3f8edtvBoPemGit5i5pLs1IKzsYF1FOMoJEVRn3UUw626hOaNgFOYHNQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4950468,33.6608658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latonya Wilson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuELpVJiVplvaL3MbkDusREE3exHnpmagwjBVUHjL3kCw0UsEdTxSCcy485k628V76v6w4duTeEBwyXEOa2OeoDt237lQXFOrbZj0_y9HDQqnKEiJhf5VC9lTkiJpBJ0UlSmt9F_-q4iJlLMYsSaUODIwksFVwgqmsa4_K5hreLPzf_kpBazbZhGbZpqeznaVsxW_SVsq_nwiQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wilson's body was found off Sewanee Ave. Her cause of death was listed as unknown.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuELpVJiVplvaL3MbkDusREE3exHnpmagwjBVUHjL3kCw0UsEdTxSCcy485k628V76v6w4duTeEBwyXEOa2OeoDt237lQXFOrbZj0_y9HDQqnKEiJhf5VC9lTkiJpBJ0UlSmt9F_-q4iJlLMYsSaUODIwksFVwgqmsa4_K5hreLPzf_kpBazbZhGbZpqeznaVsxW_SVsq_nwiQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4651211,33.7587252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Wyche</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHO4cOQaHXpxovXMrFOeLVQ3GDCogkicMqTBiVxBVvUEfyNlD6Xo6G_CoSwCZ7KZtNfBoDMfa4-BpNLgRpjvAzOroCkAKmhqESSHtKXo9KjI0Kz7yZUurtSpUPTnkD4F6yDIUnBzG3zlFKtCqXTX4a-yKOEObznKADMEGsw_VYX8JKaJw2kocmSC2TKStkFMsDf0DE29nF6UQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wyche's body was found beneath a railroad trestle at Constitution Rd. and Moreland Ave. SE.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHO4cOQaHXpxovXMrFOeLVQ3GDCogkicMqTBiVxBVvUEfyNlD6Xo6G_CoSwCZ7KZtNfBoDMfa4-BpNLgRpjvAzOroCkAKmhqESSHtKXo9KjI0Kz7yZUurtSpUPTnkD4F6yDIUnBzG3zlFKtCqXTX4a-yKOEObznKADMEGsw_VYX8JKaJw2kocmSC2TKStkFMsDf0DE29nF6UQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3495838,33.6926174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony Carter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKwWCSGjx9v1UGLvn9fb532IJNI2CdIJrxtkEZc8z1eQsbQXiNdcZmkbY6CZcQBIisnUzHuhb6p_x8J-9PH7-jdYFvxluBzPQ_i8DCO3GcagJ246EsCiZm7cmAWbpWWahRwzsrHgsAZVchvC6qIWjpz2q30Tyb4uVbtsjxXNAjOTKwO04paftcGg-FlWRI4PVpkHXxb1B-RA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Carter was found dead of multiple stab wounds in a warehouse area at 657 Wells St. ]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKwWCSGjx9v1UGLvn9fb532IJNI2CdIJrxtkEZc8z1eQsbQXiNdcZmkbY6CZcQBIisnUzHuhb6p_x8J-9PH7-jdYFvxluBzPQ_i8DCO3GcagJ246EsCiZm7cmAWbpWWahRwzsrHgsAZVchvC6qIWjpz2q30Tyb4uVbtsjxXNAjOTKwO04paftcGg-FlWRI4PVpkHXxb1B-RA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4087058,33.739081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl Terrell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEmJzr8Er0XhWJunteURiK00dI4MnMJRlJP4kcJAcP7jq0YINs0m1zp7i8TmBiKK3cxKJXvzJPKRm-133BnkB-fsmuuaaM0oSZcIBd8-doOUokxZfC-s45iJJoY1n2wTUf--6F0VN4BkPLTaDrEeRZ3kvKcxitb0ai1Oii3GeraRQQ_yEvfZGEl_llEjGqUiIXGeIgCyMaD0A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Terrell's body was found off Redwine Road near the intersection of Desert Drive. The body of Christopher Richardson was found 75 feet away. The site was close to where Milton Harvey's body was found Nov. 16, 1979.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEmJzr8Er0XhWJunteURiK00dI4MnMJRlJP4kcJAcP7jq0YINs0m1zp7i8TmBiKK3cxKJXvzJPKRm-133BnkB-fsmuuaaM0oSZcIBd8-doOUokxZfC-s45iJJoY1n2wTUf--6F0VN4BkPLTaDrEeRZ3kvKcxitb0ai1Oii3GeraRQQ_yEvfZGEl_llEjGqUiIXGeIgCyMaD0A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4946391,33.660723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clifford Jones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFwbrmRYsGBOPWbcfDfHiuLmIaF8qbH6PdBaXy3VfJkzjUYHE6KuThXJKy_74krMGMGeaMoUl2wlVkfg70lu_KQY5Cbzlh70LRXpGzYcVe1Or_DLz1o1ei11FCaA5kwU2WogoZihKOl2je08WhSSxGqpFv-xmWzfEImUYH1ZY8z7CDv44eS1Mzjj7QLO2X5IpINZvwzG5HBsA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jones was found strangled beside a trash pickup receptacle in the rear of the Hollywood Plaza Shopping Center at 833 Hollywood Rd. NW.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFwbrmRYsGBOPWbcfDfHiuLmIaF8qbH6PdBaXy3VfJkzjUYHE6KuThXJKy_74krMGMGeaMoUl2wlVkfg70lu_KQY5Cbzlh70LRXpGzYcVe1Or_DLz1o1ei11FCaA5kwU2WogoZihKOl2je08WhSSxGqpFv-xmWzfEImUYH1ZY8z7CDv44eS1Mzjj7QLO2X5IpINZvwzG5HBsA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4511508,33.7783097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Stephens</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEYCUeDdIq_VuAxnExuX2E0ydmbt1CsRo8S0nPxIA6_Bgxs_DC9W41ishCkMKfa_qZFW9bcjFa0S3MABdeJzU_4dpLPoV7xGppWD_KEdSLkJvK5lxhkJ8TTFyV9VBqTYDUpe0RxiJlVzvOdV1jwUYpylwmvCmxV2gzuQyFPTbI5JIkkNqifOe2eDECwykxhCP4YHdA-jLsavw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Stephens was found asphyxiated off Norman Berry Dr. in East Point.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEYCUeDdIq_VuAxnExuX2E0ydmbt1CsRo8S0nPxIA6_Bgxs_DC9W41ishCkMKfa_qZFW9bcjFa0S3MABdeJzU_4dpLPoV7xGppWD_KEdSLkJvK5lxhkJ8TTFyV9VBqTYDUpe0RxiJlVzvOdV1jwUYpylwmvCmxV2gzuQyFPTbI5JIkkNqifOe2eDECwykxhCP4YHdA-jLsavw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4260139,33.6740537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Jackson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEGdTvC5LjDET1ckqjvqSkuRmo5nap1Ur6jEO69YxwxiaQi0Z0DXa7XI2GSZh9XU_QlTyjfcOAMbQAdlqPn4TnLlyCgAt58XNwYA8m2sFxeg-yHxGR8DYlxtcWzRlL9Apq45chzscMiLlrseWC1tUnCbogYBloaR8jO026wGyCpn8uT_JbK8yFEPRHkuZejTA4lj-9h_p80lA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jackson was found asphyxiated near the South River at Forest Park Road, Fulton County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEGdTvC5LjDET1ckqjvqSkuRmo5nap1Ur6jEO69YxwxiaQi0Z0DXa7XI2GSZh9XU_QlTyjfcOAMbQAdlqPn4TnLlyCgAt58XNwYA8m2sFxeg-yHxGR8DYlxtcWzRlL9Apq45chzscMiLlrseWC1tUnCbogYBloaR8jO026wGyCpn8uT_JbK8yFEPRHkuZejTA4lj-9h_p80lA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3578963,33.6790132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGyd_Yqh6YulT4YfOfPnbaAdX8q6X4CPErzuj21R3zAPy--1ykH6gBuA2UgZAnnaUI5Bkd0dfBMEgdjgtJNk9fxD0m6hhG2OBespbkjW7S7aZZRTAZqwB5tAvDtvsQObeL7rliLp4jBfaDU03zBFf-nrbdDqi5lKVo5m-hX2ZPF9ZNQBveKfh8X-1D-DyKaoAUR2ifokZtYyg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Rogers was found dead of blunt trauma to the head near the Chattahoochee River at Paces Ferry Road, Cobb County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGyd_Yqh6YulT4YfOfPnbaAdX8q6X4CPErzuj21R3zAPy--1ykH6gBuA2UgZAnnaUI5Bkd0dfBMEgdjgtJNk9fxD0m6hhG2OBespbkjW7S7aZZRTAZqwB5tAvDtvsQObeL7rliLp4jBfaDU03zBFf-nrbdDqi5lKVo5m-hX2ZPF9ZNQBveKfh8X-1D-DyKaoAUR2ifokZtYyg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4550171,33.8590873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lubie Geter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFhrWCfTQu1ZifJH2h3WRDOZoUVYQ0LpziuRRN5bKUWqMfrnK_QmrSfGyTsBGP-U8ev8Dh-_8R4yiWYzoHMV9Z4Q8UoFHhhhTiDGI68d1x1_QBzCWFVTWXZz0oX8-NQC8fAzxG0-8BWgtIf2HajyKOT1znoURYWnw9xXtPlCRBXNR2StAMnb8qJXcGmCMqcXTbW1OHNKF3nOQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Geter was found strangled along Vandiver Road on Feb. 5, 1981.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFhrWCfTQu1ZifJH2h3WRDOZoUVYQ0LpziuRRN5bKUWqMfrnK_QmrSfGyTsBGP-U8ev8Dh-_8R4yiWYzoHMV9Z4Q8UoFHhhhTiDGI68d1x1_QBzCWFVTWXZz0oX8-NQC8fAzxG0-8BWgtIf2HajyKOT1znoURYWnw9xXtPlCRBXNR2StAMnb8qJXcGmCMqcXTbW1OHNKF3nOQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5711096,33.6825679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terry Pue</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFXuJN0EqL5DZxI7NaGXCI6UBEGquc3bKTGHX66DnO4E823JKltvxWcIQqetQ1f3GYb5_hEESiRJ9YbFz9-MrSI4SLltg1BYC8dwdIQeHt5OthAvodp8vJ2Wx-gSEr3J7pZRzLM3Sw8sPez3lCdi2VarvXmA41tOpdeiGV-6ascjV6Vu7mD4iicnii_OmE9360iQl9OIhGiGg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Pue was found strangled along Sigman Road in Rockdale County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFXuJN0EqL5DZxI7NaGXCI6UBEGquc3bKTGHX66DnO4E823JKltvxWcIQqetQ1f3GYb5_hEESiRJ9YbFz9-MrSI4SLltg1BYC8dwdIQeHt5OthAvodp8vJ2Wx-gSEr3J7pZRzLM3Sw8sPez3lCdi2VarvXmA41tOpdeiGV-6ascjV6Vu7mD4iicnii_OmE9360iQl9OIhGiGg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.0688435,33.6823861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Baltazar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHm7oPII_V-VEypJN4Bf7UhhmbhLh0DheMbcdX0_Vwo1kUz3QJAsbY3dGddbb7P0b7tVYbaIqrQTT2PkjzdqGME3DwPyDLxUyEcLgyAALY_vYvYNSss7UqBoxbvxROxroC6UJJo2LEHQXHuwGjIDchQ-o5AonqPMiqMEnTFa1OCQCE9q6DOItKN-h5KAIG98iOTY20ErnlYWQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Baltazar was found asphyxiated in a wooded area behind Corporate Square in DeKalb County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHm7oPII_V-VEypJN4Bf7UhhmbhLh0DheMbcdX0_Vwo1kUz3QJAsbY3dGddbb7P0b7tVYbaIqrQTT2PkjzdqGME3DwPyDLxUyEcLgyAALY_vYvYNSss7UqBoxbvxROxroC6UJJo2LEHQXHuwGjIDchQ-o5AonqPMiqMEnTFa1OCQCE9q6DOItKN-h5KAIG98iOTY20ErnlYWQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3310542,33.8361851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curtis Walker</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuG6gud5RrgKjinuRzxfWNmvD3hr-bEQHE5v9g0ycBIJjURZnUBlWMLMFYY2uuXqrXaFeuJpo9UvRnDqamgDUOWkc238Zjog-F3i9LpZE6fuus23SO7VHFEc2xcJhBvI6nJyo2suG3KV0SBTsJU6xsWF5S7aGswJqq4e-0C8qBR2qnLfSyu8-yrlsNFT1esawQMsegQIwMCShQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Walker was found strangled near the Waldrop Rd. bridge at the South River, DeKalb County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuG6gud5RrgKjinuRzxfWNmvD3hr-bEQHE5v9g0ycBIJjURZnUBlWMLMFYY2uuXqrXaFeuJpo9UvRnDqamgDUOWkc238Zjog-F3i9LpZE6fuus23SO7VHFEc2xcJhBvI6nJyo2suG3KV0SBTsJU6xsWF5S7aGswJqq4e-0C8qBR2qnLfSyu8-yrlsNFT1esawQMsegQIwMCShQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.2494638,33.6807692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joseph Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFnsBbGoc_bf8B91OZo7ULv4OonrQ0u8KOdLWS9Usl_E2mVBHxeSenH1fJEfWaMc04CHM-dwAt_Y2n001AaOyfsqea49aPzvMIgFuFFBplrIDcYC0vjw-wy1MDwUib5FQty7dti74eFnpo_LrSNfx_9eoHEDoLS9TsIj6EMAvJy3zHJ0TvjnziST3R_ACLlLodYs8S1n8em0A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bell was found asphyxiated along the South River near Klondike Road, Rockdale County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFnsBbGoc_bf8B91OZo7ULv4OonrQ0u8KOdLWS9Usl_E2mVBHxeSenH1fJEfWaMc04CHM-dwAt_Y2n001AaOyfsqea49aPzvMIgFuFFBplrIDcYC0vjw-wy1MDwUib5FQty7dti74eFnpo_LrSNfx_9eoHEDoLS9TsIj6EMAvJy3zHJ0TvjnziST3R_ACLlLodYs8S1n8em0A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.1284086,33.6301699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Timothy Hill</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGyS3G1TyGiWDDqxCZLFLxTjDSj5oH6kIXW2NiWJU9jZ0ci6U9Zo-Wx-kVdwBEfQTTlAfu8E3TjFcoweBxyZy40T1Cy3RZG2m0xCV5fN_ThPpDBH72imAVWA_q9Zzn6F7yPNLR7aMCRZ9i1UsJQGHlX4IoKWKpO6LfLd12Qt8k4JwKNOEyjrovkHGVFaQcKVEnJLBEBfm2SiA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Hill was found asphyxiated/drowned near the Chattahoochee River at Fairburn Road, Fulton County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGyS3G1TyGiWDDqxCZLFLxTjDSj5oH6kIXW2NiWJU9jZ0ci6U9Zo-Wx-kVdwBEfQTTlAfu8E3TjFcoweBxyZy40T1Cy3RZG2m0xCV5fN_ThPpDBH72imAVWA_q9Zzn6F7yPNLR7aMCRZ9i1UsJQGHlX4IoKWKpO6LfLd12Qt8k4JwKNOEyjrovkHGVFaQcKVEnJLBEBfm2SiA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.6297933,33.6922707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eddie Duncan</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFmWLE9IKQeJW082gj72aWNy5nEHWGeuXJM1ZIIL-hDBt5bRiDM2eI1aP9uTOQPNtNWYusmsoHU9pNyTOVDyCd1OxPltT2WUkUDH5qLSXJjhOLtqx47P8ikiBmBwcfJR492EY2w7NnohugB3eJgILmjLC430G4fUxPvQUNBxr8Frr7zYua_XXZsEuoxRJIw-DmOD8jfbas4tg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Duncan was found dead of possible strangulation near the Chattahoochee River at Fairburn Road, Fulton County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFmWLE9IKQeJW082gj72aWNy5nEHWGeuXJM1ZIIL-hDBt5bRiDM2eI1aP9uTOQPNtNWYusmsoHU9pNyTOVDyCd1OxPltT2WUkUDH5qLSXJjhOLtqx47P8ikiBmBwcfJR492EY2w7NnohugB3eJgILmjLC430G4fUxPvQUNBxr8Frr7zYua_XXZsEuoxRJIw-DmOD8jfbas4tg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.6315206,33.6914952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larry Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHINV2S1HFcSsgQDRBY0uuWF_AF3IqnIooqS4QSeL3i2xpWH6nz08eRqkwxKGywBtCqETVRtP6K19x3ZQ-dbGaD-kruOWbl3-aliyerEwRpCY-eEMyUNFL136NI89h36Rg1SYkJnhQJXXIg8nYgH-RVs_VXZdOjqQxD-qQfsAS5E6iYm_DV7dB8-J6HFtVNIHZWnT0zNsf7pg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Rogers was found strangled in an apartment at 460 Temple Street NW.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHINV2S1HFcSsgQDRBY0uuWF_AF3IqnIooqS4QSeL3i2xpWH6nz08eRqkwxKGywBtCqETVRtP6K19x3ZQ-dbGaD-kruOWbl3-aliyerEwRpCY-eEMyUNFL136NI89h36Rg1SYkJnhQJXXIg8nYgH-RVs_VXZdOjqQxD-qQfsAS5E6iYm_DV7dB8-J6HFtVNIHZWnT0zNsf7pg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4223258,33.7664727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michael McIntosh</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH0q4Ceu0tWHXGEOKlC9KtiTgFMBmnmJMWc1zGPVRoaooedu-8T--Ky8qWEsWMHCx9MWR6QZUr8AAMj0jn2IpBTF3dUxiLIqKzxXa0TNNzjsxuEJeOqvWjmjz7PVXtTj2TpKAvVen0nOUxx1Czu7ngGNkYzsOOIjTQd_BLTIDjAmOAz2kkGV_i24lnULpmgrCNegJCV_Wu8AQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>McIntosh was found asphyxiated near the Chattahoochee River at Fairburn Road, Fulton County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH0q4Ceu0tWHXGEOKlC9KtiTgFMBmnmJMWc1zGPVRoaooedu-8T--Ky8qWEsWMHCx9MWR6QZUr8AAMj0jn2IpBTF3dUxiLIqKzxXa0TNNzjsxuEJeOqvWjmjz7PVXtTj2TpKAvVen0nOUxx1Czu7ngGNkYzsOOIjTQd_BLTIDjAmOAz2kkGV_i24lnULpmgrCNegJCV_Wu8AQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.6303098,33.6916202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimmy Payne</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFyOv75LqqrRC8CnSXvY9iKfau4T-GNw0jq74qkQ19TlymYq-bGpNJX9pJMgTks7cZGGj15WDan5d3KT8-LJPkaF-D8i7uoYeI5AUKykMo97qPcHMen1exY5P0cIwP9YBn29baMwYOARQNKfervUQhMWoK_pEAEX0M-OjyP-F1Nb0UNuLcefJ7jiwTqsR1fFBUGh1p2GoN5VQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Payne was found asphyxiated near the Chattahoochee River at Bankhead Highway and Riverview Road, Cobb County.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFyOv75LqqrRC8CnSXvY9iKfau4T-GNw0jq74qkQ19TlymYq-bGpNJX9pJMgTks7cZGGj15WDan5d3KT8-LJPkaF-D8i7uoYeI5AUKykMo97qPcHMen1exY5P0cIwP9YBn29baMwYOARQNKfervUQhMWoK_pEAEX0M-OjyP-F1Nb0UNuLcefJ7jiwTqsR1fFBUGh1p2GoN5VQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5082218,33.7961069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Porter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH_BbhlduqPAA6R34XTowQ0Y5Nrko7iiRNijkdmrvbLtrrVAFP_hxOfC6HHpG6bXufBDTKrTZ0B66yo_7EVnuHPp7wUYsXpAmO3Be_cKyuYmYlDQLKbBXtA81ueXBxX7J_pH4hWC7ch8bf8LMWVb1SYO8JBQeeQ5kXNn-TTSVekOH62sIyRXDuybcqFRvyPvqVMEVgHTAEhrQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Porter was found stabbed to death in a vacant lot at 796 Bender St. SW on April 12, 1981.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH_BbhlduqPAA6R34XTowQ0Y5Nrko7iiRNijkdmrvbLtrrVAFP_hxOfC6HHpG6bXufBDTKrTZ0B66yo_7EVnuHPp7wUYsXpAmO3Be_cKyuYmYlDQLKbBXtA81ueXBxX7J_pH4hWC7ch8bf8LMWVb1SYO8JBQeeQ5kXNn-TTSVekOH62sIyRXDuybcqFRvyPvqVMEVgHTAEhrQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4065353,33.7331004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Barrett</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKQ5CSKTmRWV-J0hBFJ7dsH8Z88ef-0SefbTfUKm1OmBqUKEDzKH7xkD5KJ0g8GRgnuVEIq7EInc05SfLU32Du_l-Z-0wwWsXtHshgwoBGDYNko15Laj0l1xyAvyglCNcU0adKxdIa9SQ5zWOkgxk3YkQ979HLSpw8nNabgBOL9FW3Av5wmqxLF3ZQtkxPwz5peDx1VXNPlQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Barrett was found strangled with a cord along Winthrop Street near I-20 on May 12, 1981.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKQ5CSKTmRWV-J0hBFJ7dsH8Z88ef-0SefbTfUKm1OmBqUKEDzKH7xkD5KJ0g8GRgnuVEIq7EInc05SfLU32Du_l-Z-0wwWsXtHshgwoBGDYNko15Laj0l1xyAvyglCNcU0adKxdIa9SQ5zWOkgxk3YkQ979HLSpw8nNabgBOL9FW3Av5wmqxLF3ZQtkxPwz5peDx1VXNPlQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3283546,33.7385731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nathaniel Cater</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE-9_kMypCdQLF7ppEdoYQ9Om9OlExJ9IXG3NaFr6rheCNegHpwmhbosMvEK6BqIJ6Yf5_lIgnaUH9tR6Y8dbaceJUFgkh1RaYgH-SCBjSuEFmYPW7CTeew6WPqTQbr2Y_AfVUPO_CorAdsRyHbRUzbjl6Ng8WxVYIOhRjDuSCGrd8HLTDEbN_fwcqkcuxoBzuGNqQHJKAHzg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Cater was found asphyxiated In the Chattahoochee River downstream from South Cobb Drive (Ga. 280).]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE-9_kMypCdQLF7ppEdoYQ9Om9OlExJ9IXG3NaFr6rheCNegHpwmhbosMvEK6BqIJ6Yf5_lIgnaUH9tR6Y8dbaceJUFgkh1RaYgH-SCBjSuEFmYPW7CTeew6WPqTQbr2Y_AfVUPO_CorAdsRyHbRUzbjl6Ng8WxVYIOhRjDuSCGrd8HLTDEbN_fwcqkcuxoBzuGNqQHJKAHzg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4818565,33.8159714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Wayne Williams' home]]></name>
+      <Placemark>
+        <name>1817 Penelope Rd NW</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGaxbS5gOwfbY1zDW8SFw28udtPqPBo4GABR5LqBpsC0FxSCYDdd_c39d6Qck7ldjhadAtNZ_Es-5_rjh2KkMXgbm9Rcw3vDNtW1RAu0P-n3T12cCdv7Z5LszonF3YBfdp9aL3pS71ZYvh_ZcTI_sCmagembygsZdTG5lkk2cp5w_reMIiVDv2MwQv0zwrKXVFYh152vU06yg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Wayne Williams, convicted in two of the Atlanta Missing and Murdered Children cases, lived in this home with his parents.]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGaxbS5gOwfbY1zDW8SFw28udtPqPBo4GABR5LqBpsC0FxSCYDdd_c39d6Qck7ldjhadAtNZ_Es-5_rjh2KkMXgbm9Rcw3vDNtW1RAu0P-n3T12cCdv7Z5LszonF3YBfdp9aL3pS71ZYvh_ZcTI_sCmagembygsZdTG5lkk2cp5w_reMIiVDv2MwQv0zwrKXVFYh152vU06yg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4465779,33.7540968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Victims' schools]]></name>
+      <Placemark>
+        <name>Edward Smith</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGlVFJ1rfucqlEdlzM5Z9-QM6vY7bUTlEl59p8e6yBvfcP4o20dOl08Q062LN6zjCNBUUHQHV2M0MKQadsKgbqCqr3MgPGnBu9rsH55am-Syfyu0xs76YfFsfO59qv7DIZScjGLTM3XI7nGm5rw0n93mrHXd_P1_qH_mc2yOI0SrXfoybvPUdCb5MntdHxhQTt0zH28fRgMgQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Therrell High School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGlVFJ1rfucqlEdlzM5Z9-QM6vY7bUTlEl59p8e6yBvfcP4o20dOl08Q062LN6zjCNBUUHQHV2M0MKQadsKgbqCqr3MgPGnBu9rsH55am-Syfyu0xs76YfFsfO59qv7DIZScjGLTM3XI7nGm5rw0n93mrHXd_P1_qH_mc2yOI0SrXfoybvPUdCb5MntdHxhQTt0zH28fRgMgQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4902643,33.6989457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alfred Evans</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEGxuYCj3DWa9U64AlfMxda-XDpVe_WyjNSymGDJj4MvDH09WCtoqQEPVG3dWIYonRkQmqudPydo7ufw0CmZ9n57zvS9w_lst0NxntSIDCB-SnVxT6UVit7Okr9Uyjr-QYoF7iTRntnLeSCpRGnYmOtchCuv-Dd9q4W9kDaNrCr8NIYPiZ2lwHWzNTyAcFTcAZuYN3o3tVa6Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Drew Elementary]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEGxuYCj3DWa9U64AlfMxda-XDpVe_WyjNSymGDJj4MvDH09WCtoqQEPVG3dWIYonRkQmqudPydo7ufw0CmZ9n57zvS9w_lst0NxntSIDCB-SnVxT6UVit7Okr9Uyjr-QYoF7iTRntnLeSCpRGnYmOtchCuv-Dd9q4W9kDaNrCr8NIYPiZ2lwHWzNTyAcFTcAZuYN3o3tVa6Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3149199,33.745138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Harvey</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHDLDaWAj33I2-4nbK-yNNQvxzadZFH8VwW9a7PfZi6x0ayJJahmJqDWhpkaflylgBqYZZo_Tx5hy0A57DKpg8zPqX6LbQ-JAvZri_BvvS1VoZYbpVgThRXbUq7fUbrZktLoYQOgFpON04ZTJU7t_WXuwNkbCAqhfEYL9uFfccOoJMOcSUV918go81vaO3U8Z_jinmsEJZcqg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Harper High School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHDLDaWAj33I2-4nbK-yNNQvxzadZFH8VwW9a7PfZi6x0ayJJahmJqDWhpkaflylgBqYZZo_Tx5hy0A57DKpg8zPqX6LbQ-JAvZri_BvvS1VoZYbpVgThRXbUq7fUbrZktLoYQOgFpON04ZTJU7t_WXuwNkbCAqhfEYL9uFfccOoJMOcSUV918go81vaO3U8Z_jinmsEJZcqg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4988031,33.7695575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yusuf Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKCZ2_FEbrab6x4VPlIZt3tv8sfwUEzQbE3qtNwXdc88rBV1qCXefdI2k43BNIJjDIoQGUFLCdGWZnK5uuUI4pF1T21IMX3KQ-pPWBds-mdYfWNqOhyR6t7IP892x_SxGlNVDOstgFHckVbu3Q-rd5IhJxGvV00KJhFbNCDfRDK9gjr8L390OjQ9UTNWCGwwmXsZRaIt9nAQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Dunbar Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFKCZ2_FEbrab6x4VPlIZt3tv8sfwUEzQbE3qtNwXdc88rBV1qCXefdI2k43BNIJjDIoQGUFLCdGWZnK5uuUI4pF1T21IMX3KQ-pPWBds-mdYfWNqOhyR6t7IP892x_SxGlNVDOstgFHckVbu3Q-rd5IhJxGvV00KJhFbNCDfRDK9gjr8L390OjQ9UTNWCGwwmXsZRaIt9nAQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4013061,33.7413861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Lenair</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH4aUtjnT8dZZkirEX61PdP9Bvts9B_AeG5LypoibncvnDh5WXGluf5a1mADhbF6A4RuczCWjC0K4NCNxTU82qmh_Q-Oe7nPftO944qvzljyLlbb1oFJXLbZSD3u6re3szc9yjckXiy4AEJn1wif5oFKok7GrmUmzmtgHjUzO1AUCd_RSMnpOFYWWNX_8Ug1SBdXGZoHBny4Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Venetian Hills Elementary School (now closed)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuH4aUtjnT8dZZkirEX61PdP9Bvts9B_AeG5LypoibncvnDh5WXGluf5a1mADhbF6A4RuczCWjC0K4NCNxTU82qmh_Q-Oe7nPftO944qvzljyLlbb1oFJXLbZSD3u6re3szc9yjckXiy4AEJn1wif5oFKok7GrmUmzmtgHjUzO1AUCd_RSMnpOFYWWNX_8Ug1SBdXGZoHBny4Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4500152,33.71437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jefferey Mathis</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGeLUvuLwzClEif_wH3apLFjMT2zgzjzJO4YopD0lqG2ZltnW3h_OfdbS9O3s9NxHGsrw90khcxKYW4K6lD2t6z-_yqcwGkP_NmZ2vQJr_AcFNGjTIqrwLpFGzWIvVKQRtJf2rnq_qpP58aKLgks8nujze9TlTt9nN382T2yhZViysC1YhBgP_0bEsIcQ9C8zBy5e0RrEyS3w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Harris Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGeLUvuLwzClEif_wH3apLFjMT2zgzjzJO4YopD0lqG2ZltnW3h_OfdbS9O3s9NxHGsrw90khcxKYW4K6lD2t6z-_yqcwGkP_NmZ2vQJr_AcFNGjTIqrwLpFGzWIvVKQRtJf2rnq_qpP58aKLgks8nujze9TlTt9nN382T2yhZViysC1YhBgP_0bEsIcQ9C8zBy5e0RrEyS3w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4346531,33.7420155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eric Middlebrooks</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFifbQ0D-EatE4DhHDh_TFneW9C4yW1ctcXan7HPOtF2r7tHyjw3byrIcoPw2mlgS_ZGUkveZfXrHbbRS76irZUvrMnnOmocCOvERvbM-6IJrNmlRlmCQZ-wRcKlAQHXkX9DK-eQDneJjVQPo9MfhiqO660Y82FcaVts3CguHRGCHlgexI4BuPHNKRQE2MLnb0rK9E2hYQJbA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Roosevelt High School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFifbQ0D-EatE4DhHDh_TFneW9C4yW1ctcXan7HPOtF2r7tHyjw3byrIcoPw2mlgS_ZGUkveZfXrHbbRS76irZUvrMnnOmocCOvERvbM-6IJrNmlRlmCQZ-wRcKlAQHXkX9DK-eQDneJjVQPo9MfhiqO660Y82FcaVts3CguHRGCHlgexI4BuPHNKRQE2MLnb0rK9E2hYQJbA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3612782,33.7397462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christopher Richardson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGU1FLEhdSSXL-Jl6H_2ewZs7wm6qSZErYc8rTZPnORTspCrKrAusuyR4WfjYeT1uH4XobpqqExTmCWCfMh9CkQtgEs1OkNk_A85XAwz-R56DjZJVY4paYkwfJjVls7bqrUQ2i5zPSpnyiGy7RY6WcTWHI63-NgA9w-DhB5ifZYWERuPrMQpdMx2HXvSovsZtOIU4G_PgcTHw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Hooper Alexander Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuGU1FLEhdSSXL-Jl6H_2ewZs7wm6qSZErYc8rTZPnORTspCrKrAusuyR4WfjYeT1uH4XobpqqExTmCWCfMh9CkQtgEs1OkNk_A85XAwz-R56DjZJVY4paYkwfJjVls7bqrUQ2i5zPSpnyiGy7RY6WcTWHI63-NgA9w-DhB5ifZYWERuPrMQpdMx2HXvSovsZtOIU4G_PgcTHw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.2728351,33.752929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latonya Wilson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFSsA1a67CmCrCuG9MyIykGfAT9XnlxG0570NTs7BXqLHzYNS3VJCjH_7P-wvG_dnwabuDT9os0lccRQZ6MS9gQd_UIpLQyse_6cTzciHJG8oRt7PhBcR8vsAmCUuqmp6zJfDssz-uGb0Kv5u0gunWGvxOX9N4jMDWnV4OpxtdVqvAC9M_A7hQTXIRSw6ESe4XKSE3-bBAYVQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Jones Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFSsA1a67CmCrCuG9MyIykGfAT9XnlxG0570NTs7BXqLHzYNS3VJCjH_7P-wvG_dnwabuDT9os0lccRQZ6MS9gQd_UIpLQyse_6cTzciHJG8oRt7PhBcR8vsAmCUuqmp6zJfDssz-uGb0Kv5u0gunWGvxOX9N4jMDWnV4OpxtdVqvAC9M_A7hQTXIRSw6ESe4XKSE3-bBAYVQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4219427,33.7482265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Wyche</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEiA4ogtV_658CKcNIjCJisxHy-55xF4euAimFVt_ElkjJW0fC-mW9BmNA6LLfGy466OfwxcJbiu6yZbiShf9zsBnfTY2786-BLrq-c3l1qfH2LExHu70vrBHmlYWfAy_2wE6jYNOk6uXZtmjF1r00aDunqCKWmN7-mGjKF13h4VEYr_FgQglYyOBP0NgMrvgX1_jrxLrkUuQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Thomasville Heights Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEiA4ogtV_658CKcNIjCJisxHy-55xF4euAimFVt_ElkjJW0fC-mW9BmNA6LLfGy466OfwxcJbiu6yZbiShf9zsBnfTY2786-BLrq-c3l1qfH2LExHu70vrBHmlYWfAy_2wE6jYNOk6uXZtmjF1r00aDunqCKWmN7-mGjKF13h4VEYr_FgQglYyOBP0NgMrvgX1_jrxLrkUuQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3544318,33.7041482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony Carter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHDOfwXP05nmbCQr4xGoUw_sIAnjzpXLHKtOP2cxEzPZ3DM43NfwGghUphXzaLjX_RgAmza875Kr-netXt_OK2oDoBMZ2mugdoiIWqad68YKxPXvdpMLTYjOUxFoJoFUv7mBuDvF7fBI8ZVrCkW3Dp4kafl6IHPvvB5sUf9OJByA0wIJ_JhGsHL8TFRmwHNTdnXc7Y3_spfKw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>E.R. Carter Elementary School (now closed)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuHDOfwXP05nmbCQr4xGoUw_sIAnjzpXLHKtOP2cxEzPZ3DM43NfwGghUphXzaLjX_RgAmza875Kr-netXt_OK2oDoBMZ2mugdoiIWqad68YKxPXvdpMLTYjOUxFoJoFUv7mBuDvF7fBI8ZVrCkW3Dp4kafl6IHPvvB5sUf9OJByA0wIJ_JhGsHL8TFRmwHNTdnXc7Y3_spfKw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4179641,33.7570072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl Terrell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFsReBDwzET5m-TKvr8kkqaFiKUEYu9ucPk1VE4REy37jZy_8liLdP2D34Cp9alaXJ1wwXXD1W60jOGUfOyz4UVvsQq3BGSj1iIXATi5TT90s9nQ6ynQc5P5DWS6awh32mhSnY32sWAuf68qaGqTpQ-ryMOQv0evRK404Ty_LwZgnX21cBNYGoKulXIJ5h6jGi-AKAa4-vlFA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Lakewood Elementary School (now closed)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFsReBDwzET5m-TKvr8kkqaFiKUEYu9ucPk1VE4REy37jZy_8liLdP2D34Cp9alaXJ1wwXXD1W60jOGUfOyz4UVvsQq3BGSj1iIXATi5TT90s9nQ6ynQc5P5DWS6awh32mhSnY32sWAuf68qaGqTpQ-ryMOQv0evRK404Ty_LwZgnX21cBNYGoKulXIJ5h6jGi-AKAa4-vlFA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.377064,33.7053593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darron Glass</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuESOSUapGXwyouXWUSNA6zahzIlxFhkQaPj_rGaUK8h0hLJSbaRNZJpmT1RnXRxoCAZ_G_ue-UopAXOVW-QcLqUwJvIvAtnOY6X9qGmgL0tsX-0jqqYVYVz4HxtiG8gEJBETF47n_c2ctZrKZj64BJZw-lcXn0haR-1oUaRdNUXeXI6fSR2t-zLp6fiLuWuAVOS2nwvLiJohw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Kirkwood Elementary School (now Toomer Elementary)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuESOSUapGXwyouXWUSNA6zahzIlxFhkQaPj_rGaUK8h0hLJSbaRNZJpmT1RnXRxoCAZ_G_ue-UopAXOVW-QcLqUwJvIvAtnOY6X9qGmgL0tsX-0jqqYVYVz4HxtiG8gEJBETF47n_c2ctZrKZj64BJZw-lcXn0haR-1oUaRdNUXeXI6fSR2t-zLp6fiLuWuAVOS2nwvLiJohw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3276863,33.7547746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Stephens</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFEO-Ox3vXXLOfpJCU6ypO0DMouO1Y0QM7BuoJGEfH109ZYTICyMhGp3zml3QQwuNj-DCpmturNwsoaYc4UNqSEgR_laY9hjX_xEEVCVTuznE1-Iu-EPsiAPpIks8ubMECxT-5NgYgll9EQSLidYWU_I3itWMpdHc2tkAc80XjeVTchQIh1rBMXBWF6hrCLlFW0ojZHIwLz8w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Perkerson Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFEO-Ox3vXXLOfpJCU6ypO0DMouO1Y0QM7BuoJGEfH109ZYTICyMhGp3zml3QQwuNj-DCpmturNwsoaYc4UNqSEgR_laY9hjX_xEEVCVTuznE1-Iu-EPsiAPpIks8ubMECxT-5NgYgll9EQSLidYWU_I3itWMpdHc2tkAc80XjeVTchQIh1rBMXBWF6hrCLlFW0ojZHIwLz8w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4137872,33.6982575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Jackson</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFcCEq9h0C2r52r3yDP0mOMc2NrHQfxHWB1JM1F3KrNUoXDrfwv6fNzNodyNa_Kywd4QAn_fpw4oQDEHZ1mXnplsN5zpSHd2uKe5M-1cpt6iAsBcTEuT6uC6Bnp11x-PMnHUMWNvzhmNU45Z5KS9kqwVA4YxtAfOIYFmhksovnOjKPK1k56_gSbw-3bUuh_WQ-xa6K9VHN_kw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Dobbs Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFcCEq9h0C2r52r3yDP0mOMc2NrHQfxHWB1JM1F3KrNUoXDrfwv6fNzNodyNa_Kywd4QAn_fpw4oQDEHZ1mXnplsN5zpSHd2uKe5M-1cpt6iAsBcTEuT6uC6Bnp11x-PMnHUMWNvzhmNU45Z5KS9kqwVA4YxtAfOIYFmhksovnOjKPK1k56_gSbw-3bUuh_WQ-xa6K9VHN_kw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3723821,33.698284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Rogers</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEa1ZyJe1HQqMNibmdkMnwsrW9K2EDwatsBmwQFAr2Rc-e1Klv7pKAKCXNQPFdF6itPJLLjTOQfRa5nAV5e0GKEa--63eNzmPnRJEx1Kn_hy62gdrCOsH8kE3teQbjx7qJgzM9BPgX5WxnR3FlKY911P1kmZ8_UlO0xik5wcVkB40TJ5jJu4_3FiozKl_K3HuZXYNvF-OcPvg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Grady High School (renamed Midtown High)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuEa1ZyJe1HQqMNibmdkMnwsrW9K2EDwatsBmwQFAr2Rc-e1Klv7pKAKCXNQPFdF6itPJLLjTOQfRa5nAV5e0GKEa--63eNzmPnRJEx1Kn_hy62gdrCOsH8kE3teQbjx7qJgzM9BPgX5WxnR3FlKY911P1kmZ8_UlO0xik5wcVkB40TJ5jJu4_3FiozKl_K3HuZXYNvF-OcPvg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3714213,33.7805515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lubie Geter</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFK6Z3Uj9R0Qo3DqUyHR6Oc0lCsHDSRnR07bpMcskA7AClCqQetEdlSosB9J2e3v6CYnEwPgmFrKLNxxtthCJxwSl7xfHbs2AosGvTHx99YpivBFtfeYZx6oXY3SsdMwCVXi6nmox2oZgE1g30V9K0N48uVWu2ZTnAec-CoetLmUFE7SVUjGNXethN_fMdh7tGBiHfvIdL27w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Murphy High School (currently Crim Open Campus High)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFK6Z3Uj9R0Qo3DqUyHR6Oc0lCsHDSRnR07bpMcskA7AClCqQetEdlSosB9J2e3v6CYnEwPgmFrKLNxxtthCJxwSl7xfHbs2AosGvTHx99YpivBFtfeYZx6oXY3SsdMwCVXi6nmox2oZgE1g30V9K0N48uVWu2ZTnAec-CoetLmUFE7SVUjGNXethN_fMdh7tGBiHfvIdL27w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.3312465,33.7465027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patrick Baltazar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFm3_htAc7zW1NDmh-7-egE0O0qTAGdULgPlOuyDp0jgfIoh3fp38JVhDB_Z911xSw1mfeZQrS44cl_PfSQ0Th4LhR4byeHbV1gryf1bcK3opajkQ5bTcjl8yGvVaHYCl_zTmUEvVGSUwEDtwynvFlg-zFIFbmJ0We7WWBHBIzdw-xe1y_A1OF4d_XdNqbI_v_7VRUgJU1CXQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bethune Elementary School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuFm3_htAc7zW1NDmh-7-egE0O0qTAGdULgPlOuyDp0jgfIoh3fp38JVhDB_Z911xSw1mfeZQrS44cl_PfSQ0Th4LhR4byeHbV1gryf1bcK3opajkQ5bTcjl8yGvVaHYCl_zTmUEvVGSUwEDtwynvFlg-zFIFbmJ0We7WWBHBIzdw-xe1y_A1OF4d_XdNqbI_v_7VRUgJU1CXQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4035692,33.7606465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curtis Walker</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF8V5xaClFMwoqXRtyq4bPionBoo9UKaXebmykNh1LvuVXevQkZX_auXv2JRlbLhZm7-_LG6DTD0miJJa8i8Ba1515orjYglqezGeVBTciyWBHhDbqptWQD9Obr6jh3TZUuvuRhLz5SNqieaNDQ0I341HujPPnIMeGqVgU2iCrF-zbUuw9e3WNfKrM6Ip8SqptWresZe6hkOg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>A.D. Williams Elementary School (now closed)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuF8V5xaClFMwoqXRtyq4bPionBoo9UKaXebmykNh1LvuVXevQkZX_auXv2JRlbLhZm7-_LG6DTD0miJJa8i8Ba1515orjYglqezGeVBTciyWBHhDbqptWQD9Obr6jh3TZUuvuRhLz5SNqieaNDQ0I341HujPPnIMeGqVgU2iCrF-zbUuw9e3WNfKrM6Ip8SqptWresZe6hkOg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4773802,33.7851697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joseph Bell</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuExboLnYjKmYXPxkJ37rSujOoW4rllOrwPXEUezsLDDSxrH6jrJhPr-jyXyO3AhvSG_AbT4OLUVwmVKcpGyK1LAOWDoZc1P1BYQJOFRW96wGkNdkfGq8zYP3E5ejSyAwJWNcY5fG4gkNshRg5Q2NaXjVNf9d6K7RacoBpOWJzKt3n1I_0ThWmqa9Za0xZU7kiJb2cVigrNghQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Booker T. Washington High School]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuExboLnYjKmYXPxkJ37rSujOoW4rllOrwPXEUezsLDDSxrH6jrJhPr-jyXyO3AhvSG_AbT4OLUVwmVKcpGyK1LAOWDoZc1P1BYQJOFRW96wGkNdkfGq8zYP3E5ejSyAwJWNcY5fG4gkNshRg5Q2NaXjVNf9d6K7RacoBpOWJzKt3n1I_0ThWmqa9Za0xZU7kiJb2cVigrNghQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4206879,33.7536903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Timothy Hill</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE-Kb7hcl11aqzyO9JO9ogHVn3fouYtFL-H9bqXg3AY8GZXC0htfC2qcOL3ndlcHYTIfs8sjwAyODmls7j3goo-tm81E9SOxXThlRSkw1zQJhCNqk8NK1wnHwi8Q45TlomRXD3VZQBJ5jx6kXI0bN9WYEGcblRdeASOgVX8LzWphpkqLLHL5h_G7NsZ0wPqI6erFAqvdtATfA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Dean Rusk Elementary School (no longer a school)]]></description>
+        <styleUrl>#icon-1682-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AFclZuE-Kb7hcl11aqzyO9JO9ogHVn3fouYtFL-H9bqXg3AY8GZXC0htfC2qcOL3ndlcHYTIfs8sjwAyODmls7j3goo-tm81E9SOxXThlRSkw1zQJhCNqk8NK1wnHwi8Q45TlomRXD3VZQBJ5jx6kXI0bN9WYEGcblRdeASOgVX8LzWphpkqLLHL5h_G7NsZ0wPqI6erFAqvdtATfA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.4213691,33.7431467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
